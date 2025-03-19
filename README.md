@@ -5,7 +5,7 @@ Maybe it can eventually become a knowledge base, but for now it's the "knowledge
 # What, why, how
 
 ## Motivation:
-![99488a1c-74dc-4e60-85f2-35364ae0c096](https://github.com/user-attachments/assets/b5bbb415-b62c-403d-b4c3-ebd4d3c42001)
+<img src="https://github.com/user-attachments/assets/b5bbb415-b62c-403d-b4c3-ebd4d3c42001" width=400>
 
 ## End goal:
 
