@@ -137,7 +137,8 @@ Observations:
     - When I tried adding the suggested categories to the prompt, AI invents new categories
     - When I added the arrows, and many categories, it gets confused about MTG. Since there is no data for "job searches rationality" I guess it tries to allocate something to that anyway? Or something?
 
-Next step:
+
+Running log:
     - I want to batch run a few hundred links, in sets of dozens, and then get the category lists that the AI outputs, make a coherent list from them as a human, and then use that category list for a proper categorization run and see what comes out.
     - brr coding
     - running the script url_processor.py for ~300 links.
@@ -145,4 +146,23 @@ Next step:
     - There are long query parameters for some google searches there, I'll filter these out manually (if this happens in the future often maybe regex it)
         https://www.google.com/search?q=how+was+le+chat+built&num=10&client=firefox-b-d&sca_esv=aa4709d8f74669be&sxsrf=AHTn8zrT4_-B6Eu3dB1L2BWCZR9ZCnu0hA%3A1739209996028&ei=DD2qZ-eeAc3NwPAP4ZXjuAM&ved=0ahUKEwjn1IKQ1rmLAxXNJhAIHeHKGDcQ4dUDCBE&uact=5&oq=how+was+le+chat+built&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWhvdyB3YXMgbGUgY2hhdCBidWlsdDIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0iwC1DqAVjCCnACeAGQAQGYAYsBoAHIBKoBAzIuNLgBA8gBAPgBAZgCB6AC7APCAgUQIRigAcICBBAhGBXCAgcQIxiwAhgnwgIIEAAYgAQYogTCAgUQABjvBcICBBAjGCeYAwDiAwUSATEgQIgGAZAGCJIHAzQuM6AH7xk&sclient=gws-wiz-serp
         https://www.google.com/search?q=kolmas+sukupuolimerkint%C3%A4+lakialoite&num=10&client=firefox-b-d&sca_esv=aa4709d8f74669be&sxsrf=AHTn8zoDh2jPyh1glmwBqGoOzFnvM7BNlg%3A1739210022914&ei=Jj2qZ_m8N-WHwPAPlr6_oQo&ved=0ahUKEwj55-uc1rmLAxXlAxAIHRbfL6QQ4dUDCBE&uact=5&oq=kolmas+sukupuolimerkint%C3%A4+lakialoite&gs_lp=Egxnd3Mtd2l6LXNlcnAiJGtvbG1hcyBzdWt1cHVvbGltZXJraW50w6QgbGFraWFsb2l0ZTIFEAAY7wUyBRAAGO8FMgUQABjvBUjTF1AWWPAWcAN4AZABAJgBY6ABrAaqAQIxMbgBA8gBAPgBAZgCDqAC0AbCAgoQABiwAxjWBBhHwgIGEAAYFhgewgIIEAAYgAQYogTCAgUQIRigAcICBxAhGKABGAqYAwCIBgGQBgKSBwQxMi4yoAeLIw&sclient=gws-wiz-serp
+    - Used this vim search pattern written by Claude to find long lines `/\v.{150,}` and manually deleted some ?share-id params for reddit and linkedin links and then various metadata for google links. (Estimate was that long google links around line 310 were breaking the LLM because my local LLM probably has a small context window.)
+    - Now it's running better again,
+    - Raw list of new categories that the initial first full run generated:,
+        - ["societal_analysis", job_searches, artifial_intelligence, aviation, programming, careers, business, tech_careers, finland_specific_services, "Finnish news", media_criticism, politics, game_development, political_analysis, "political_forecasting", "self_hosting", "technology_news", "LLM_tools", "cybersecurity", "AI governance", "distributed_computing", "decision_making", sexuality "government_policy" "gaming_strategy", "news", "gaming", "economics", "medical_tests", "cryptocurrency_economics", "computer_science", "university_courses", "politics","relationships", "government_publications", "Data and APIs", "AI Safety", "AI in Games", "data_processing", "vector_databases", "machine_learning_tools"]
+    - Could be useful to sort the URLs. Either so that ones from same domain are close to each other (would increase odds that they get the same category) or randomized (would probably even out the distribution).
 
+Observed behaviour:
+    - As mentioned above, using -> for subcategories confused the program.
+    - Current script ometimes adds a new category but doesn't actually categorize any links to the category.
+    - And sometimes it marks very confused categories: It understands that  "https://www.google.com/search?client=firefox-b-d&q=marco+rubio+elon+musk+argument" is of Topic "political debate search" but it categorizes it as "self_improvement"
+
+Ideas for improving:
+    - Optimize prompt, try different ollama modes (chat vs. prompt vs. generate), try ollama.cpp and temperature etc settings
+    - Category ideas:
+        - "Todos", somehow explain that many google links are todos
+        - yhteiskuntatiede (social sciences)? separated for general, finland, us, eu levels?
+        - history
+        - "unknown"
+    - Automoitu tarkistus että mikään URL ei hallusinoitunut prosessista?
+        - Nopealla (Claude written) scriptillä näyttää että ~62 urlia puuttuisi output.txt:stä. Mutta tähän sisältyy myös

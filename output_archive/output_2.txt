@@ -1,0 +1,5351 @@
+```json
+[
+  {
+    "url": "https://www.cleaererthinking.org/post/a-guide-on-building-lasting-connections-how-to-make-and-keep-friends",
+    "category": "relationships"
+  },
+  {
+    "url": "https://www.reddit.com/r/mtgvorthos/comments/uhi1sv/a_garden_flesh/",
+    "category": "hobbies"
+  },
+  {
+    "url": "https://magic.wizards.com/en/news/magic-story/garden-flesh-2022-05-03",
+    "category": "hobbies"
+  },
+  {
+    "url": "https://mindingourway.com/self-compassion/",
+    "category": "self_improvement"
+  },
+  {
+    "url": "https://loveuncommon.com/2017/09/28/self-consent/",
+    "category": "relationships"
+  },
+  {
+    "url": "https://www.leswrong.com/posts/BfTW9jmDzujYkhjAb/loving-yourself-1#Nick_thinks_that_the_two_most_promising_avenues_are_solo_MDMA_trips_and_metta__lovingkindness__meditation_",
+    "category": "self_improvement"
+  },
+  {
+    "url": "https://meaningness.substack.com/p/you-should-be-a-god-emperor",
+    "category": "rationality"
+  }
+]
+```
+
+```json
+[
+  "hobbies"
+]
+``````json
+[
+  {
+    "url": "https://kajsotala.fi/2023/02/in-defense-of-chatbot-romance/",
+    "category": "artificial_intelligence"
+  },
+  {
+    "url": "https://gwern.net/llm-writing",
+    "category": "artificial_intelligence"
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1gqn4jo/intuitive_selfmodels_blog_post_series/?share_id=fkXR3r4UbbkdsN-F9Mqby",
+    "category": "self_improvement"
+  },
+  {
+    "url": "https://www.leswrong.com/posts/cSXZpvqpa9vbGGLtG/thou-art-godshatter",
+    "category": "rationality"
+  },
+  {
+    "url": "about:newtab",
+    "category": "self_improvement"
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4743080/",
+    "category": "scientific_research"
+  },
+  {
+    "url": "https://ubiq-x.github.io/rspan/",
+    "category": "artificial_intelligence"
+  },
+  {
+    "url": "https://ollij.fi/epi/kerran_luotin/",
+    "category": "relationships"
+  },
+  {
+    "url": "https://arxiv.org/pdf/2207.09238",
+    "category": "artificial_intelligence"
+  },
+  {
+    "url": "https://docs.google.com/document/u/0/d/1WFFggvKYTIr6CtcXDjLL7QtfYzaJXYzljcGAE4tkAnY/mobilebasic",
+    "category": "artificial_intelligence"
+  }
+]
+```
+
+```json
+[
+  "blogging",
+  "finlandian_culture"
+]
+``````json
+[
+  {"url": "https://www.clearerthinking.org/post/how-to-read-an-academic-paper-and-tell-whether-it-s-bullshit", "category": "rationality"},
+  {"url": "https://www.astralcodex.com/p/its-still-easier-to-imagine-the-end", "category": "rationality"},
+  {"url": "https://www.astralcodex.com/p/book-review-the-gervais-principle", "category": "rationality"},
+  {"url": "https://www.ale-hop.org/en/sleeping-stuffed-fox-super-soft-9794309", "category": "hobbies"},
+  {"url": "https://drive.google.com/drive/u/0/folders/1llc19SD6VE0RxWcQwRR5Ynp1C47OniRe", "category": "hobbies"},
+  {"url": "https://www.google.com/search?client=firefox-b-d&q=matlu+kes%C3%A4ty%C3%B6paikat+helsinki", "category": "job_searches"},
+  {"url": "https://www.helsinki.fi/fi/tutustu-meihin/ura-ja-avoimet-tyopaikat/avoimet-tyopaikat", "category": "job_searches"},
+  {"url": "https://helsinki.jobteaser.com/fi/job-offers/ba2db0e8-8d06-4289-8dec-d24cace94350-institute-of-science-and-technology-austria-ista-funded-fellowship-isternship-summer-program", "category": "job_searches"},
+  {"url": "https://studies.helsinki.fi/ohjeet/uutiset/joulukuun-ajankohtaiset-urapalveluissa-ja-jobteaserissa-loppuvuoden-tapahtumat-ja-vinkit-kesatyo-ja", "category": "job_searches"},
+  {"url": "https://helsinki.jobteaser.com/fi/job-offers/e3d893cd-8512-4786-9211-7cae8b4c8f66-fortum-oyj-kesaharjoittelija-ydinvoima-it", "category": "job_searches"}
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://helsinki.jobteaser.com/fi/job-offers/81531630-cbae-4924-8cec-a3a549c99955-fortum-oyj-kesaharjoittelija-automaatiosuunnittelu",
+    "category": "job_searches"
+  },
+  {
+    "url": "https://helsinki.jobteaser.com/fi/job-offers/777e5001-0781-4443-9b4f-32dd8034a8bf-fortum-oyj-kesaharjoittelija-prosesi-it",
+    "category": "job_searches"
+  },
+  {
+    "url": "https://helsinki.jobteaser.com/fi/job-offers/4dddb04d-8fb0-41ab-a318-e947e511f1c8-siamens-osakeyhtio-system-specialist-trainee-building-automation-futurewerner",
+    "category": "job_searches"
+  },
+  {
+    "url": "https://valtiolle.fi/fi/tyopaikat/sivu3/?location=273740%2C273622%2C273540%2C273547%2C273738%2C273761&type=268880%2C268871",
+    "category": "job_searches"
+  },
+  {
+    "url": "https://valtiolle.fi/fi/tyopaikat/harjoittelija-turvallisuus-9701/?location=273740%2C273622%2C273540%2C273547%2C273738%2C273761&type=268880%2C268871",
+    "category": "job_searches"
+  },
+  {
+    "url": "https://valtiolle.fi/fi/tyopaikat/harjoittelija-saadosvalmistelu-tiedonhallinta-ja-tekoaly-9819/?location=273740%2C273622%2C273540%2C273547%2C273738%2C273761&type=268880%2C268871",
+    "category": "job_searches"
+  },
+  {
+    "url": "https://helsinki.jobteaser.com/fi/job-offers/e6458de8-8a20-461d-8425-719efe925638-fortum-oyj-summer-trainee-automation-engineering",
+    "category": "job_searches"
+  },
+  {
+    "url": "https://helsinki.jobteaser.com/fi/job-offers/ef041abb-951c-4e6c-9ba1-a5a97ddd63e1-fortum-oyj-summer-trainee-platform-engineering",
+    "category": "job_searches"
+  },
+  {
+    "url": "https://www.google.com/search?q=eafi+lafi+hetzner+kularit&ie=UTF-8&oe=UTF-8&hl=en-fi&client=safari",
+    "category": "artificial_intelligence"
+  },
+  {
+    "url": "https://docs.google.com/document/d/1_7gjKe_SiBtAiNLbY4vvdiwwvz_Vk2qtPfz3QRAOPRs/edit?tab=t.0#heading=h.7kdh6mvk3xf3",
+    "category": "artificial_intelligence"
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://www.clearerthinking.org/post/a-guide-on-building-lasting-connections-how-to-make-and-keep-friends",
+    "category": "relationships",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.reddit.com/r/mtgvorthos/comments/uhi1sv/a_garden_flesh/",
+    "category": "hobies",
+    "p": 0.75
+  },
+  {
+    "url": "https://magic.wizards.com/en/news/magic-story/garden-flesh-2022-05-03",
+    "category": "hobies",
+    "p": 0.85
+  },
+  {
+    "url": "https://mindingourway.com/self-compassion/",
+    "category": "self_improvement",
+    "p": 0.90
+  },
+  {
+    "url": "https://loveuncommon.com/2017/09/28/self-consent/",
+    "category": "relationships",
+    "p": 0.80
+  },
+  {
+    "url": "https://www.leswrong.com/posts/BfTW9jmDzujYkhjAb/loving-yourself-1#Nick_thinks_that_the_two_most_promising_avenues_are_solo_MDMA_trips_and_metta__lovingkindness__meditation_",
+    "category": "self_improvement",
+    "p": 0.85
+  },
+  {
+    "url": "https://meaningness.substack.com/p/you-should-be-a-god-emperor",
+    "category": "rationality",
+    "p": 0.70
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://kajsotala.fi/2023/02/in-defense-of-chatbot-romance/",
+    "category": "artificial_intelligence",
+    "p": 0.85
+  },
+  {
+    "url": "https://gwern.net/llm-writing",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1gqn4jo/intuitive_selfmodels_blog_post_series/?share_id=fkXR3r4UbbkdsN-F9Mqby",
+    "category": "self_improvement",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.leswrong.com/posts/cSXZpvqpa9vbGGLtG/thou-art-godshatter",
+    "category": "rationality",
+    "p": 0.8
+  },
+  {
+    "url": "about:newtab",
+    "category": "self_improvement",
+    "p": 0.1
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4743080/",
+    "category": "scientific_research",
+    "p": 0.95
+  },
+  {
+    "url": "https://ubiq-x.github.io/rspan/",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://ollij.fi/epi/kerran_luotin/",
+    "category": "self_improvement",
+    "p": 0.5
+  },
+  {
+    "url": "https://arxiv.org/pdf/2207.09238",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://docs.google.com/document/u/0/d/1WFFggvKYTIr6CtcXDjLL7QtfYzaJXYzljcGAE4tkAnY/mobilebasic",
+    "category": "self_improvement",
+    "p": 0.6
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://www.clearerthinking.org/post/a-guide-on-building-lasting-connections-how-to-make-and-keep-friends",
+    "topic": "building lasting connections",
+    "category": "relationships",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.reddit.com/r/mtgvorthos/comments/uhi1sv/a_garden_flesh/",
+    "topic": "Magic: The Gathering discussion",
+    "category": "hobbies",
+    "p": 0.85
+  },
+  {
+    "url": "https://magic.wizards.com/en/news/magic-story/garden-flesh-2022-05-03",
+    "topic": "Magic: The Gathering story",
+    "category": "hobbies",
+    "p": 0.90
+  },
+  {
+    "url": "https://mindingourway.com/self-compassion/",
+    "topic": "self-compassion",
+    "category": "self_improvement",
+    "p": 0.92
+  },
+  {
+    "url": "https://loveuncommon.com/2017/09/28/self-consent/",
+    "topic": "self-consent",
+    "category": "relationships",
+    "p": 0.88
+  },
+  {
+    "url": "https://www.leswrong.com/posts/BfTW9jmDzujYkhjAb/loving-yourself-1#Nick_thinks_that_the_two_most_promising_avenues_are_solo_MDMA_trips_and_metta__lovingkindness__meditation_",
+    "topic": "self-love, MDMA, meditation",
+    "category": "self_improvement",
+    "p": 0.80
+  },
+  {
+    "url": "https://meaningness.substack.com/p/you-should-be-a-god-emperer",
+    "topic": "philosophical discussion of leadership",
+    "category": "rationality",
+    "p": 0.75
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://kajsotala.fi/2023/02/in-defense-of-chatbot-romance/",
+    "topic": "chatbot romance",
+    "category": "artificial_intelligence",
+    "p": 0.85
+  },
+  {
+    "url": "https://gwern.net/llm-writing",
+    "topic": "LLM writing",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1gqn4jo/intuitive_selfmodels_blog_post_series/?share_id=fkXR3r4UbbkdsN-F9Mqby",
+    "topic": "intuitive self models",
+    "category": "self_improvement",
+    "p": 0.75
+  },
+  {
+    "url": "https://www.leswrong.com/posts/cSXZpvqpa9vbGGLtG/thou-art-godshatter",
+    "topic": "rationality and belief",
+    "category": "rationality",
+    "p": 0.8
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4743080/",
+    "topic": "cognitive biases and decision making",
+    "category": "rationality",
+    "p": 0.7
+  },
+  {
+    "url": "https://ubiq-x.github.io/rspan/",
+    "topic": "recursive span",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://ollij.fi/epi/kerran_luotin/",
+    "topic": "epistemic trust",
+    "category": "rationality",
+    "p": 0.6
+  },
+  {
+    "url": "https://arxiv.org/pdf/2207.09238",
+    "topic": "language models and reasoning",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://docs.google.com/document/u/0/d/1WFFggvKYTIr6CtcXDjLL7QtfYzaJXYzljcGAE4tkAnY/mobilebasic",
+    "topic": "unclear, likely related to AI alignment",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://www.cleaererthinking.org/post/how-to-read-an-academmic-paper-and-tell-whether-it-s-bullshit",
+    "topic": "critical thinking",
+    "category": "rationality",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.astralcodex.com/p/its-still-easier-to-imagine-the-end",
+    "topic": "societal collapse, existential risk",
+    "category": "rationality",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.astralcodex.com/p/book-review-the-gervais-principle",
+    "topic": "social dynamics, power structures",
+    "category": "rationality",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.ale-hop.org/en/sleeping-stuffed-fox-super-soft-9794309",
+    "topic": "stuffed animal",
+    "category": "hobbie",
+    "p": 0.9
+  },
+  {
+    "url": "https://drive.google.com/drive/u/0/folders/1llc19SD6VE0RxWcQwRR5Ynp1C47OniRe",
+    "topic": "unknown",
+    "category": "hobbie",
+    "p": 0.3
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=matlu+kes%C3%A4ty%C3%B6paikat+helsinki",
+    "topic": "summer jobs in helsinki",
+    "category": "job_searches",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.helsinki.fi/fi/tutustu-meihin/ura-ja-avoimet-tyopaikat/avoimet-tyopaikat",
+    "topic": "university job openings",
+    "category": "job_searches",
+    "p": 0.9
+  },
+  {
+    "url": "https://helsinki.jobteaser.com/fi/job-offers/ba2db0e8-8d06-4289-8dec-d24cace94350-institute-of-science-and-technology-austria-ista-funded-fellowship-isternship-summer-program",
+    "topic": "summer program fellowship",
+    "category": "job_searches",
+    "p": 0.9
+  },
+  {
+    "url": "https://studies.helsinki.fi/ohjeet/uutiset/joulukuun-ajankohtaiset-urapalveluissa-ja-jobteaserissa-l oppuvuoden-tap ahtumat-ja-vinkit-kesatyo-ja",
+    "topic": "summer job advice",
+    "category": "job_searches",
+    "p": 0.9
+  },
+  {
+    "url": "https://helsinki.jobteaser.com/fi/job-offers/e3d893cd-8512-4786-9211-7cae8b4c8f66-fortum-oyj-kesaharjoittelija-ydinvoima-it",
+    "topic": "fortum summer internship",
+    "category": "job_searches",
+    "p": 0.9
+  }
+]
+```
+
+```json
+[
+  "societal_analysis"
+]
+``````json
+[
+  {
+    "url": "https://helsinki.jobteaser.com/fi/job-offers/81531630-cbae-4924-8cec-a3a549c99955-fortum-oyj-kesaharjoittelija-automaatiosuunnittelu",
+    "topic": "job_searches",
+    "category": "job_searches",
+    "p": 0.95
+  },
+  {
+    "url": "https://helsinki.jobteaser.com/fi/job-offers/777e5001-0781-4443-9b4f-32dd8034a8bf-fortum-oyj-kesaharjoittelija-prosessi-it",
+    "topic": "job_searches",
+    "category": "job_searches",
+    "p": 0.95
+  },
+  {
+    "url": "https://helsinki.jobteaser.com/fi/job-offers/4dddb04d-8fb0-41ab-a318-e947e511f1c8-siemens-osakeyhtio-system-specialist-trainee-building-automation-futurewerner",
+    "topic": "job_searches",
+    "category": "job_searches",
+    "p": 0.95
+  },
+  {
+    "url": "https://valtiolle.fi/fi/tyopaikat/sivu3/?location=273740%2C273622%2C273540%2C273547%2C273738%2C273761&type=268880%2C268871",
+    "topic": "job_searches",
+    "category": "job_searches",
+    "p": 0.95
+  },
+  {
+    "url": "https://valtiolle.fi/fi/tyopaikat/harjoittelija-turvallisuus-9701/?location=273740%2C273622%2C273540%2C273547%2C273738%2C273761&type=268880%2C268871",
+    "topic": "job_searches",
+    "category": "job_searches",
+    "p": 0.95
+  },
+  {
+    "url": "https://valtiolle.fi/fi/tyopaikat/harjoittelija-saadosvalmistelu-tiedonhallinta-ja-tekoaly-9819/?location=273740%2C273622%2C273540%2C273547%2C273738%2C273761&type=268880%2C268871",
+    "topic": "job_searches",
+    "category": "job_searches",
+    "p": 0.95
+  },
+  {
+    "url": "https://helsinki.jobteaser.com/fi/job-offers/e6458de8-8a20-461d-8425-719efe925638-fortum-oyj-summer-trainee-automation-engineering",
+    "topic": "job_searches",
+    "category": "job_searches",
+    "p": 0.95
+  },
+  {
+    "url": "https://helsinki.jobteaser.com/fi/job-offers/ef041abb-951c-4e6c-9ba1-a5a97ddd63e1-fortum-oyj-summer-trainee-platform-engineering",
+    "topic": "job_searches",
+    "category": "job_searches",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.google.com/search?q=eafi+lafi+hetzner+kularit&ie=UTF-8&oe=UTF-8&hl=en-fi&client=safari",
+    "topic": "artificial_intelligence",
+    "category": "artificial_intelligence",
+    "p": 0.3
+  },
+  {
+    "url": "https://docs.google.com/document/d/1_7gjKe_SiBtAiNL-a",
+    "topic": "artificial_intelligence",
+    "category": "artificial_intelligence",
+    "p": 0.3
+  }
+]
+```json
+
+```
+[
+  "job_searches",
+  "artificial_intelligence"
+]
+``````json
+[
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=pian-relevantteja+kouluasioita",
+    "topic": "search query",
+    "category": "self_improvement",
+    "p": 0.3
+  },
+  {
+    "url": "https://studies.helsinki.fi/courses/course-unit/otm-287d3a82-8f74-4833-9521-121b8cca4d4e",
+    "topic": "university course",
+    "category": "university_courses",
+    "p": 0.95
+  },
+  {
+    "url": "https://digicampus.fi/course/info.php?id=3669",
+    "topic": "university course",
+    "category": "university_courses",
+    "p": 0.9
+  },
+  {
+    "url": "https://studies.helsinki.fi/kurssit/totetus/otm-ca311267-3ee1-4fb1-96c5-f390d99a339f/MAT11001",
+    "topic": "university course",
+    "category": "university_courses",
+    "p": 0.95
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQZSZGgPxPhrRQwXtPnVCFGrMJD",
+    "topic": "email inbox",
+    "category": "self_improvement",
+    "p": 0.1
+  },
+  {
+    "url": "https://haihala.github.io/blog/squeli",
+    "topic": "blog post",
+    "category": "artificial_intelligence",
+    "p": 0.4
+  },
+  {
+    "url": "https://xylix.github.io/blog",
+    "topic": "blog",
+    "category": "self_improvement",
+    "p": 0.2
+  },
+  {
+    "url": "https://haihala.github.io/blog/intro-to-webdev",
+    "topic": "blog post",
+    "category": "hobbie",
+    "p": 0.7
+  },
+  {
+    "url": "https://haihala.github.io/blog/intro-to-teaching",
+    "topic": "blog post",
+    "category": "self_improvement",
+    "p": 0.6
+  },
+  {
+    "url": "https://iflycoast.com/understanding-air-density-and-its-effects/",
+    "topic": "air density",
+    "category": "scientific_research",
+    "p": 0.5
+  }
+]
+```
+
+```json
+[
+  "aviation"
+]
+``````json
+[
+  {
+    "url": "https://en.wikipedia.org/wiki/Normal_distribution#Standard_deviation_and_coverage",
+    "topic": "Normal Distribution",
+    "category": "scientific_research",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.lesswrong.com/posts/EhTMM77iKBTBxBKRe/the-laws-of-large-numbers",
+    "topic": "Laws of Large Numbers",
+    "category": "scientific_research",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=computing+platforms",
+    "topic": "Computing Platforms",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html",
+    "topic": "Free Online Books",
+    "category": "hobbies",
+    "p": 0.7
+  },
+  {
+    "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+    "topic": "Operating Systems: Three Easy Pieces",
+    "category": "university_courses",
+    "p": 0.85
+  },
+  {
+    "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf",
+    "topic": "Operating Systems: Three Easy Pieces",
+    "category": "university_courses",
+    "p": 0.95
+  },
+  {
+    "url": "https://github.com/ekalinin/operating-systems-three-easy-pieces-pdf/blob/master/ostep.pdf",
+    "topic": "Operating Systems: Three Easy Pieces",
+    "category": "university_courses",
+    "p": 0.9
+  },
+  {
+    "url": "https://moodle.helsinki.fi/course/view.php?id=69356",
+    "topic": "University Course",
+    "category": "university_courses",
+    "p": 0.9
+  },
+  {
+    "url": "https://studies.cs.helsinki.fi/stats/courses/fullstackopen/submissions",
+    "topic": "Fullstackopen Submissions",
+    "category": "university_courses",
+    "p": 0.8
+  },
+  {
+    "url": "https://fullstackopen.com/osa5/kirjautuminen_frontendissa#tokenin-tallettaminen-selaimen-local-storageen",
+    "topic": "Frontend Authentication",
+    "category": "university_courses",
+    "p": 0.85
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://fullstackopen.com/osa5/props_children_ja_proptypet",
+    "topic": "programming",
+    "category": "university_courses",
+    "p": 0.8
+  },
+  {
+    "url": "https://academind.com/tutorials/localstorage-vs-cookies-xss/",
+    "topic": "programming",
+    "category": "university_courses",
+    "p": 0.7
+  },
+  {
+    "url": "http://localhost:5173/",
+    "topic": "programming",
+    "category": "university_courses",
+    "p": 0.2
+  },
+  {
+    "url": "http://localhost:3003/api/blogs",
+    "topic": "programming",
+    "category": "university_courses",
+    "p": 0.2
+  },
+  {
+    "url": "https://animaladvocacycareers.pinpointhq.com/",
+    "topic": "careers",
+    "category": "job_searches",
+    "p": 0.7
+  },
+  {
+    "url": "https://archive.is/2025.01.13-145605/https://www.vulture.com/article/neil-gaiman-allegations-controversy-amanda-palmer-sandman-madoc.html#selection-1423.0-1462.1",
+    "topic": "entertainment",
+    "category": "relationships",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.wired.com/story/novo-nordisk-king-of-ozempic-scared-as-hell/",
+    "topic": "business",
+    "category": "scientific_research",
+    "p": 0.4
+  },
+  {
+    "url": "https://www.google.com/search?q=traveling+as+autisti.+tips&ie=UTF-8&oe=UTF-8&hl=en-fi&client=safari",
+    "topic": "lifestyle",
+    "category": "self_improvement",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.google.com/search?q=toukokuu+2vk+ulkomaa&ie=UTF-8&oe=UTF-8&hl=en-fi&client=safari",
+    "topic": "lifestyle",
+    "category": "relationships",
+    "p": 0.4
+  },
+  {
+    "url": "https://www.reddit.com/r/jobs/comments/1i0ib4b/help_this_seems_too_good_to_be_true_is_this_a_scam/",
+    "topic": "careers",
+    "category": "job_searches",
+    "p": 0.9
+  }
+]
+```
+
+```json
+[
+  "programming",
+  "careers"
+]
+``````json
+[
+  {
+    "url": "https://www.mckinsey.com/careers/search-jobs?cities=Helsinki",
+    "topic": "job_searches",
+    "category": "job_searches",
+    "p": 0.95
+  },
+  {
+    "url": "https://blog.pragmaticengineer.com/things-that-helped-me-successfully-move-into-engineering-management/",
+    "topic": "career development",
+    "category": "self_improvement",
+    "p": 0.75
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=whos+the+drunk+episode+1+arcanes+season+2",
+    "topic": "entertainment",
+    "category": "hobbies",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.reddit.com/r/arcanes/comments/qszshj/caitlyn_is_so_pretty/",
+    "topic": "entertainment",
+    "category": "hobbies",
+    "p": 0.9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Ella_Purnell",
+    "topic": "entertainment",
+    "category": "hobbies",
+    "p": 0.85
+  },
+  {
+    "url": "https://repo.aalto.fi/uncategorized/IO_926740c7-5165-439a-a020-5205aeb4d4d5/",
+    "topic": "research data",
+    "category": "scientific_research",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.reddit.com/r/saltierthankrayt/comments/1ciix2r/what_were_some_early_red_flags_with_jk_rowling/",
+    "topic": "social commentary",
+    "category": "rationality",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.jkrowling.com/opinions/j-k-rowling-writes-about-her-reasons-for-speaking-out-on-sex-and-gender-issues/",
+    "topic": "social commentary",
+    "category": "rationality",
+    "p": 0.9
+  },
+  {
+    "url": "https://bsky.app/profile/sarasadeart.bsky.social",
+    "topic": "social media",
+    "category": "hobbies",
+    "p": 0.75
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=amazons+management+culture",
+    "topic": "business",
+    "category": "job_searches",
+    "p": 0.65
+  }
+]
+```
+
+```json
+[
+  "business"
+]
+``````json
+[
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=ea+forum+non-profits+should+be+more%2C+not+less+ruthless",
+    "topic": "effective altruism",
+    "category": "effective_altruism",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.google.com/search?q=novo+nordisk+stock+price&ie=UTF-8&oe=UTF-8&hl=en-fi&client=safar#ebo=0",
+    "topic": "stock prices",
+    "category": "scientific_research",
+    "p": 0.3
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1hb4beh/insurance_companies_arent_the_main_villain_of_the/?share_id=9jvHBmR8B1rIoCN4VH-qO",
+    "topic": "insurance",
+    "category": "scientific_research",
+    "p": 0.2
+  },
+  {
+    "url": "https://www.google.com/search?q=kes%C3%A4t%C3%B6it%C3%A4+ai+puljuista%3F&ie=UTF-8&oe=UTF-8&hl=en-fi&client=safari",
+    "topic": "AI software",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://slatestarcodex.com/2017/10/23/kolmogorov-complicity-and-the-parable-of-lightning/",
+    "topic": "Kolmogorov's complexity",
+    "category": "scientific_research",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.pastemagazine.com/movies/david-lynch/",
+    "topic": "David Lynch films",
+    "category": "hobbies",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.google.com/search?client=safari&sca_esv=865d6c36e0c51f09&hl=en-fi&sxsrf=ADLYWIL8NFJ-ZZhuVj9TzQ-MUeDEWXcnTw:1737058710500&q=new+joker+movie+harley&spell=1&sa=X&ved=2ahUKEwj2wZL7h_uKAxXKExAIHfMVPYAQBSgAegQIDRAB&biw=390&bih=663&dpr=3",
+    "topic": "Joker movie",
+    "category": "hobbies",
+    "p": 0.7
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQZSZHqDshzHgrRMkvtWbbwSLbh",
+    "topic": "email",
+    "category": "relationships",
+    "p": 0.1
+  },
+  {
+    "url": "https://old.reddit.com/r/leagueoflegends/comments/1gxvu14/arcane_season_2_arc_3_episode_9_live_discussion/?sort=top",
+    "topic": "League of Legends",
+    "category": "hobbies",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=if+i+could+just+lay+down+my+head+and+rest",
+    "topic": "rest",
+    "category": "self_improvement",
+    "p": 0.6
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=diffrenence+between+momentum+and+kinetic+energy",
+    "topic": "physics",
+    "category": "university_courses",
+    "p": 0.7
+  },
+  {
+    "url": "https://studies.helsinki.fi/ohjeet/artikkeli/apurahat-stipendit-ja-avustukset",
+    "topic": "funding",
+    "category": "university_courses",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.hs.fi/lifestyle/art-2000010908449.html",
+    "topic": "lifestyle",
+    "category": "relationships",
+    "p": 0.4
+  },
+  {
+    "url": "https://www.google.com/search?q=list+of+i+have+no+mouth+fan+games",
+    "topic": "games",
+    "category": "hobbies",
+    "p": 0.8
+  },
+  {
+    "url": "https://blog.cryptographyengineering.com/2025/01/17/lets-talk-about-ai-and-end-to-end-encryption/",
+    "topic": "security",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://fullstackopen.com/osa0/yleista#osat-ja-suorittaminen",
+    "topic": "programming",
+    "category": "university_courses",
+    "p": 0.9
+  },
+  {
+    "url": "https://x.com/Dr_Singularity/status/1879336599164530819",
+    "topic": "AI",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://x.com/deanwball/status/1841201730068816276",
+    "topic": "AI",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.google.com/search?q=thinking+team+leading",
+    "topic": "leadership",
+    "category": "job_searches",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1i41lnn/five_recent_ai_tutoring_studies/",
+    "topic": "AI",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://www.effectivealtruism.org/ea-global/events/eagxnordics-2025",
+    "topic": "events",
+    "category": "effective_altruism",
+    "p": 0.95
+  },
+  {
+    "url": "https://cajunavenger.github.io/",
+    "topic": "personal website",
+    "category": "self_improvement",
+    "p": 0.3
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=problems+with+les+mis+2012+singing+reddit",
+    "topic": "search results",
+    "category": "self_improvement",
+    "p": 0.2
+  },
+  {
+    "url": "https://www.reddit.com/r/lesmiserables/comments/yfrypc/why_do_people_dislike_the_2012_movie/",
+    "topic": "discussion",
+    "category": "self_improvement",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=1ikqU6G6Xgs",
+    "topic": "video",
+    "category": "self_improvement",
+    "p": 0.2
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=les+mis+2010+cast+album",
+    "topic": "search results",
+    "category": "self_improvement",
+    "p": 0.2
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox",
+    "topic": "email",
+    "category": "self_improvement",
+    "p": 0.1
+  },
+  {
+    "url": "https://yle.fi/a/74-20137266",
+    "topic": "news article",
+    "category": "self_improvement",
+    "p": 0.1
+  },
+  {
+    "url": "https://www.google.com/search?num=10&client=firefox-b-d&sca_esv=e5400330830f0b9e&sxsrf=ADLYWIJfoHc0ZIwgCrXfipfZuIg0TKFatg:1737291659530&q=gender+roles+alignment+chart&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J0TTyieiSn4vVsjkTS5Hqtf4g42CrlErv5TdXaRk6ND4KJqlYJAEsj-kC5aknWmkN3l20fd6qLdP00yowDO24b5eE1bbMG6EGL--Objp67t01_EyGTGGht3Ao7YJvHFPL82-Sf8&sa=X&ved=2ahUKEwi49_Lh64GLAxWXDRAIHVxuApAQtKgLegQIFBAB&biw=1560&bih=995&dpr=2#vhid=Bj3M7iMiqydD1M&vssid=mosaic",
+    "topic": "search results",
+    "category": "relationships",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.allcatsarefemale.com/p/gender-roles-and-gender-trouble",
+    "topic": "article",
+    "category": "relationships",
+    "p": 0.8
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://substack.com/@allcatsarefemale",
+    "topic": "relationships",
+    "category": "relationships",
+    "p": 0.8
+  },
+  {
+    "url": "https://substack.com/home/post/p-154459962?selection=9a9a66e5-259d-4069-840b-8b67f48879aa#:~:text=This%20piece%20doesn't%20so%20much%20make%20the%20case%20for%20an%20age-gap%20relationship%20as%20it%20does%20for%20a%20wealth-gap%20relationship%20(which%20is%20admittedly%20easier%20to%20find%20if%20you%E2%80%99re%20open%20to%20an%20age-gap)",
+    "topic": "relationships",
+    "category": "relationships",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.reddit.com/r/transitiongoals/comments/pje4l3/gender_envy_alignment_chart_why_tf_do_i_get/",
+    "topic": "relationships",
+    "category": "relationships",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.patheos.com/blogs/agora/2019/10/the-balancing-path-non-binary-thinking-the-dd-alignment-chart/",
+    "topic": "relationships",
+    "category": "relationships",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.google.com/search?q=how%20to%20select%20tinder%20profile%20pics&ie=utf-8&oe=utf-8&client=firefox-b-m&sei=oQGNZ9LzGMi2wPAP-MS6kAc",
+    "topic": "relationships",
+    "category": "relationships",
+    "p": 0.8
+  },
+  {
+    "url": "https://medium.com/@tonyszhou/postmortem-1b338537fabc",
+    "topic": "artificial_intelligence",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#search/yang/FMfcgzQZSjjrdJnrMjMztNCHSkSKrcpn?projector=1&messagePartId=0.1",
+    "topic": "artificial_intelligence",
+    "category": "artificial_intelligence",
+    "p": 0.3
+  },
+  {
+    "url": "https://moodle.helsinki.fi/course/section.php?id=848761",
+    "topic": "university_courses",
+    "category": "university_courses",
+    "p": 0.9
+  },
+  {
+    "url": "https://moodle.helsinki.fi/pluginfile.php/6130047/course/section/848761/exercise1.pdf?time=1735892843999",
+    "topic": "university_courses",
+    "category": "university_courses",
+    "p": 0.95
+  },
+  {
+    "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf",
+    "topic": "scientific_research",
+    "category": "scientific_research",
+    "p": 0.8
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf",
+    "topic": "CPU Mechanisms",
+    "category": "university_courses",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.overleaf.com/project/66d5739dbb6fb455d6eeb7f8",
+    "topic": "Overleaf Project",
+    "category": "university_courses",
+    "p": 0.3
+  },
+  {
+    "url": "https://existentialcomics.com/comic/585",
+    "topic": "Existential Comics",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=how+to+play+ai+dungeon+with+chatgpt",
+    "topic": "AI Dungeon and ChatGPT",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://github.com/ggerganov/llama.cpp/tree/master",
+    "topic": "llama.cpp",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://latitude.io/blog/how-we-evaluate-new-ai-models-for-ai-dungeon",
+    "topic": "Evaluating AI Models",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.siliconcontinent.com/p/it-is-all-about-the-superstars",
+    "topic": "Superstars in Tech",
+    "category": "job_searches",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1i5p8hh/career_planning_in_a_postgpto3_world/m85nqiy/?share_id=rLAxVjhUh_KB66R9N1Wm2&context=3",
+    "topic": "Career Planning in a Post-GPT World",
+    "category": "job_searches",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1i5p8hh/career_planning_in_a_postgpto3_world/m85l8ww/?share_id=qrDoVr__aKtmiak7BRmlw&context=3",
+    "topic": "Career Planning in a Post-GPT World",
+    "category": "job_searches",
+    "p": 0.8
+  },
+  {
+    "url": "https://helsinki.jobteaser.com/fi/events/237235-eu-urat-ja-tehtavat",
+    "topic": "Job Teaser Event",
+    "category": "job_searches",
+    "p": 0.9
+  }
+]
+```
+
+```json
+[
+  "tech_careers"
+]
+``````json
+[
+  {
+    "url": "http://spyced.blogspot.com/2025/01/notes-on-llmap.html",
+    "topic": "LLMAP notes",
+    "category": "artificial_intelligence",
+    "p": 0.85
+  },
+  {
+    "url": "https://www.reddit.com/r/logseq/comments/190pgcf/newbie_here_and_its_1st_time_i_feel_stupid_using/",
+    "topic": "Logseq usage frustration",
+    "category": "self_improvement",
+    "p": 0.65
+  },
+  {
+    "url": "https://www.reddit.com/r/logseq/comments/17czftm/obsidian_vs_logseq_for_college_notes/",
+    "topic": "Obsidian vs Logseq for college notes",
+    "category": "university_courses",
+    "p": 0.75
+  },
+  {
+    "url": "https://www.reddit.com/r/logseq/comments/190pgcf/newbie_here_and_its_1st_time_i_feel_stupid_using/kgsfn7w/?share_id=JL86agkka3PUyDXMiPhIt&context=3",
+    "topic": "Logseq usage frustration",
+    "category": "self_improvement",
+    "p": 0.65
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=web.whatsapp",
+    "topic": "Whatsapp web search",
+    "category": "self_improvement",
+    "p": 0.3
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=vim+get+statistic+how+much+time+spent+in+insert+mode",
+    "topic": "Vim insert mode statistics",
+    "category": "self_improvement",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.reddit.com/r/vim/comments/svlkqs/i_measured_for_two_weeks_what_key_combinations_i/",
+    "topic": "Vim key combination usage",
+    "category": "self_improvement",
+    "p": 0.8
+  },
+  {
+    "url": "https://moodle.helsinki.fi/mod/page/view.php?id=3925977",
+    "topic": "Moodle course page",
+    "category": "university_courses",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.sanakirja.fi/translator",
+    "topic": "Online translator",
+    "category": "self_improvement",
+    "p": 0.4
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1i7v7ar/ai_i_like_it_when_i_make_it_i_hate_it_when_others/",
+    "topic": "AI generated content discussion",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://www.hmlteatteri.fi/kalenteri",
+    "topic": "entertainment",
+    "category": "hobies",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.google.com/search?q=lesswrong+how+to+talk+to+new+people&ie=UTF-8&oe=UTF-8&hl=en-fi&client=safari",
+    "topic": "social skills",
+    "category": "self_improvement",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.google.com/search?q=tensorflow&ie=UTF-8&oe=UTF-8&hl=en-fi&client=safari",
+    "topic": "machine learning",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "about:blank",
+    "topic": "unknown",
+    "category": "unknown",
+    "p": 0.1
+  },
+  {
+    "url": "https://studies.helsinki.fi/ohjeet/artikkeli/urapalvelujen-tapahhtumat#paragraph-7348",
+    "topic": "career services",
+    "category": "job_searches",
+    "p": 0.8
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#search/bachelor+thesis/FMfcgzQZSjjrdJnrMjMztNCHSkSKrcpn",
+    "topic": "academic research",
+    "category": "university_courses",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.google.com/search?q=site:cia.gov+filetype:pdf&num=10&client=firefox-b-d&sca_esv=2e72d065ef487a51&sxsrf=AHTn8zoS6cPCS8N0bzlwXu7HoZtdE3Mw_g:1737993199270&ei=76uXZ86OEOi3wPAP8pCBeA&start=50&sa=N&sstk=Af40H4UhmgsEZDEoh-8DSXEIZdlf2Fk9znr_wzxTgc9bWlneak05sTCIhvi6P8LSYvTvzXgasQNAuW4a3G1jH_t2IuspvFb3meWPeg&ved=2ahUKEwiOwo6aoZaLAxXoGxAIHXJIAA8Q8tMDegQIKBAM&biw=1560&bih=995&dpr=2",
+    "topic": "government documents",
+    "category": "scientific_research",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.loc.gov/collections/",
+    "topic": "library resources",
+    "category": "scientific_research",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.lesswrong.com/users/hivewired",
+    "topic": "social platform",
+    "category": "relationships",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.lesswrong.com/posts/T5RzkFcNpRdckGauu/link-a-community-alert-about-ziz",
+    "topic": "community alert",
+    "category": "relationships",
+    "p": 0.6
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=iki.fi+tunnukselle+google+tili",
+    "topic": "Google Account",
+    "category": "job_searches",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=xylix+%40+iki+fi+google+tili%3F",
+    "topic": "Google Account",
+    "category": "job_searches",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.instagram.com/p/DFYKFDvOOmO/?img_index=12",
+    "topic": "Instagram Post",
+    "category": "hobbies",
+    "p": 0.7
+  },
+  {
+    "url": "https://sinceriously.blog-mirror.com/false-faces/",
+    "topic": "False Faces",
+    "category": "rationality",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1icege1/associates_of_exlesswronger_ziz_arrested_for/?share_id=GGROYCaDM4tPuY2DNq_cp",
+    "topic": "Arrest of Associates",
+    "category": "artificial_intelligence",
+    "p": 0.3
+  },
+  {
+    "url": "https://www.reddit.com/r/askphilosophy/comments/1aempp6/how_come_so_many_philosophers_think_choosing_2/",
+    "topic": "Philosophical Choice",
+    "category": "relationships",
+    "p": 0.5
+  },
+  {
+    "url": "https://old.reddit.com/r/askphilosophy/comments/ouhqew/why_is_newcombs_paradox_unsolved/",
+    "topic": "Newcomb's Paradox",
+    "category": "rationality",
+    "p": 0.9
+  },
+  {
+    "url": "https://moodle.helsinki.fi/course/view.php?id=69933",
+    "topic": "University Course",
+    "category": "university_courses",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.finna.fi/Record/helmet.1477535",
+    "topic": "Record",
+    "category": "scientific_research",
+    "p": 0.4
+  },
+  {
+    "url": "https://www.lesswrong.com/tag/timeless-decision-theory",
+    "topic": "Decision Theory",
+    "category": "rationality",
+    "p": 0.9
+  }
+]
+```
+
+```json
+[
+  "finland_specific_services"
+]
+``````json
+[
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQZSsBpktJKjpdkWRTDlrNjXBrR",
+    "topic": "email",
+    "category": "job_searches",
+    "p": 0.3
+  },
+  {
+    "url": "https://x.com/ESYudkowsky/status/1884735897096384919",
+    "topic": "twitter post",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQZSsBpktJKjpdkWRTDlrNjXBrR?projector=1&messagePartId=0.3",
+    "topic": "email",
+    "category": "job_searches",
+    "p": 0.3
+  },
+  {
+    "url": "https://teams.microsoft.com/dl/launcher/l auncher.html?url=%2F_%2Fl%2Fmeetup-join%2F19%3Ameeting_OTc2NjA1MzQtZGE1Yi00YWY4LWEwNWItMzI0OGIzNjU1YmM1%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522889b02ae-92e7-4a64-a3a5-1fe464978c62%2522%252c%2522Oid%2522%253a%2522081c3456-58d4-4e01-a3ed-e000f6ee7a64%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=b776b457-362f-4838-8f0e-9ccc7b217f60&directDl=true&msL aun ch=true&enableMobilePage=true&suppressPrompt=true",
+    "topic": "meeting link",
+    "category": "hobies",
+    "p": 0.5
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQZSsKtVQgxXfDLTLPZjrbcQKMS",
+    "topic": "email",
+    "category": "job_searches",
+    "p": 0.3
+  },
+  {
+    "url": "https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/166076/OKM_2025_5.pdf?sequence=1&isAllowed=y",
+    "topic": "government document",
+    "category": "university_courses",
+    "p": 0.2
+  },
+  {
+    "url": "https://moodle.helsinki.fi/mod/workshop/view.php?id=3884073",
+    "topic": "online learning platform",
+    "category": "university_courses",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.hs.fi/politiikka/art-2000010993071.html",
+    "topic": "news article",
+    "category": "rationality",
+    "p": 0.4
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Causal_decision_theory",
+    "topic": "wikipedia article",
+    "category": "rationality",
+    "p": 0.9
+  },
+  {
+    "url": "https://github.com/TodePond/DreamBerd?tab=readme-ov-file#arrays",
+    "topic": "github repository",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://moodle.helsinki.fi/pluginfile.php/6130047/course/section/848761/exercise3.pdf?time=1737620566436",
+    "topic": "Computer Science",
+    "category": "university_courses",
+    "p": 0.8
+  },
+  {
+    "url": "https://moodle.helsinki.fi/pluginfile.php/6130047/course/section/848760/Computing-platforms%20-%20virtual%20memory1.pdf?time=1737967727031",
+    "topic": "Computer Science",
+    "category": "university_courses",
+    "p": 0.9
+  },
+  {
+    "url": "https://docs.kernel.org/scheduler/sched-eevdf.html",
+    "topic": "Computer Science",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://docs.kernel.org/scheduler/sched-design-CFS.html",
+    "topic": "Computer Science",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://cs.stackexchange.com/questions/88831/bits-of-memory-address-used-for-page-number",
+    "topic": "Computer Science",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://sites.cs.ucsb.edu/~chris/teaching/cs170/doc/cs170-08.pdf",
+    "topic": "Computer Science",
+    "category": "university_courses",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.cs.princeton.edu/courses/archive/fall13/cos518/papers/worse-is-better.pdf",
+    "topic": "Computer Science",
+    "category": "scientific_research",
+    "p": 0.7
+  },
+  {
+    "url": "https://jobs.80000hours.org/?jobPk=15141",
+    "topic": "Career",
+    "category": "job_searches",
+    "p": 0.95
+  },
+  {
+    "url": "https://moodle.helsinki.fi/mod/page/view.php?id=3468152",
+    "topic": "Language Learning",
+    "category": "self_improvement",
+    "p": 0.6
+  },
+  {
+    "url": "https://translate.google.com/?sl=auto&tl=en&text=%0A1.Studievanor%3A%20Hur%20studerar%20du%3F%20Skriv%20p%C3%A5%20Miro.%0A%0A2.%20Re...&op=translate",
+    "topic": "Language Learning",
+    "category": "self_improvement",
+    "p": 0.9
+  }
+]
+```
+
+```json
+[
+  "programming"
+]
+``````json
+[
+  {
+    "url": "https://www.hs.fi/talous/art-2000011002349.html",
+    "topic": "Finnish Economy",
+    "category": "job_searches",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.hs.fi/alueet/art-2000011002173.html",
+    "topic": "Finnish Regions",
+    "category": "job_searches",
+    "p": 0.3
+  },
+  {
+    "url": "https://www.hs.fi/suomi/art-2000010904881.html",
+    "topic": "Finnish Politics",
+    "category": "job_searches",
+    "p": 0.2
+  },
+  {
+    "url": "https://edition.cnn.com/2025/01/29/us/plane-crash-potomac-river-dc-hnk/index.html",
+    "topic": "News",
+    "category": "job_searches",
+    "p": 0.1
+  },
+  {
+    "url": "https://apriisr.github.io/to-the-moon/",
+    "topic": "Video Game",
+    "category": "hobies",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1iexd2t/once_youre_laid_off_youll_never_be_the_same_again/madp7u5/?share_id=u0jOhpbdR-iEIJIB0ImIv&context=3",
+    "topic": "Layoffs and Career",
+    "category": "job_searches",
+    "p": 0.9
+  },
+  {
+    "url": "https://rss.mau.fi/",
+    "topic": "News Feed",
+    "category": "job_searches",
+    "p": 0.1
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=queens+gambit+episode+1+reddit",
+    "topic": "TV Show Discussion",
+    "category": "hobies",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.reddit.com/r/queensgambit/comments/jm7g8n/episode_discussion_s01e01_openings/",
+    "topic": "TV Show Discussion",
+    "category": "hobies",
+    "p": 0.9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/A_Clockwork_Orange_(film)",
+    "topic": "Film Analysis",
+    "category": "hobies",
+    "p": 0.8
+  }
+]
+```
+
+```json
+[
+  "Finnish News"
+]
+``````json
+[
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=elizabeth+voice+queens+gambit",
+    "topic": "entertainment",
+    "category": "hobbies",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=queens+gambit+episode+2+reddit",
+    "topic": "entertainment",
+    "category": "hobbies",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=queens+gambit+episode+2+townes",
+    "topic": "entertainment",
+    "category": "hobbies",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.reddit.com/r/queensgambit/comments/jm7jg3/episode_discussion_s01e02_exchanges/",
+    "topic": "entertainment",
+    "category": "hobbies",
+    "p": 0.9
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=42877910",
+    "topic": "technology",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://areena.yle.fi/1-67443592",
+    "topic": "news",
+    "category": "rationality",
+    "p": 0.4
+  },
+  {
+    "url": "https://timsh.org/traking-myselff-down-through-in-app-ads/",
+    "topic": "technology",
+    "category": "self_improvement",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-PhH8j69lIs",
+    "topic": "entertainment",
+    "category": "hobbie",
+    "p": 0.7
+  },
+  {
+    "url": "https://x.com/thomasbmbrasstad/status/1701304023037382691",
+    "topic": "technology",
+    "category": "artificial_intelligence",
+    "p": 0.5
+  },
+  {
+    "url": "https://www.ted.com/talks/frank_cogliano_history_vs_thomas_jefferson",
+    "topic": "history",
+    "category": "rationality",
+    "p": 0.7
+  }
+]
+```
+
+```json
+[
+  "media_criticism"
+]
+``````json
+[
+  {
+    "url": "https://www.reddit.com/r/askphilosophy/comments/1ifsvot/is_it_possible_to_publish_as_someone_with_no/maj2b8e/?share_id=XcjUw7Dpq3ZkMju3oRxsF&context=3",
+    "topic": "publishing",
+    "category": "self_improvement",
+    "p": 0.7
+  },
+  {
+    "url": "https://x.com/alx/status/1886415751528972515",
+    "topic": "AI and societal impact",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://x.com/robert_spalding/status/1886047160501768354",
+    "topic": "geopolitics and cyber",
+    "category": "artificial_intelligence",
+    "p": 0.5
+  },
+  {
+    "url": "https://x.com/MikeBenzCyber/status/1886252477743321213",
+    "topic": "cybersecurity and geopolitics",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.reddit.com/r/Timberborn/comments/uqga78/zoom_issue/",
+    "topic": "game development and technical issues",
+    "category": "hobbies",
+    "p": 0.7
+  },
+  {
+    "url": "https://arenan.yle.fi/poddar/1-73332296",
+    "topic": "podcast",
+    "category": "hobbies",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.reddit.com/r/Zoom/comments/g6c9ej/help_changing_my_display_name_before_joining_the/",
+    "topic": "technical support for Zoom",
+    "category": "hobbies",
+    "p": 0.8
+  },
+  {
+    "url": "https://helpdesk.it.helsinki.fi/ohjeet/yhteydenpito-ja-julkaiseminen/videokokoukset/zoom",
+    "topic": "technical documentation for Zoom",
+    "category": "hobbies",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=chappell+roan+lgbt",
+    "topic": "LGBTQ+ issues and search results",
+    "category": "relationships",
+    "p": 0.5
+  },
+  {
+    "url": "https://tyottomat.fi/tiedotteet/kuntavaalit-2025-tyottomien-teesit/",
+    "topic": "political statements and unemployment",
+    "category": "job_searches",
+    "p": 0.7
+  }
+]
+```
+
+```json
+[
+  "politics"
+]
+``````json
+[
+  {
+    "url": "https://www.patriagroup.com/patria-in-finland/avoimet-tyopaikat",
+    "topic": "job_searches",
+    "category": "job_searches",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=how+many+nonbinary+people+want+to+medically+transition",
+    "topic": "relationships",
+    "category": "relationships",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=patria+revenue",
+    "topic": "scientific_research",
+    "category": "scientific_research",
+    "p": 0.7
+  },
+  {
+    "url": "https://web.archive.org/web/20240417085904/https://nis.fyi/external-comments.html",
+    "topic": "rationality",
+    "category": "rationality",
+    "p": 0.7
+  },
+  {
+    "url": "https://thezvi.wordpress.com/2020/05/23/mazes-sequence-summary/",
+    "topic": "rationality",
+    "category": "rationality",
+    "p": 0.85
+  },
+  {
+    "url": "https://www.netum.fi/kesatyot-2025/",
+    "topic": "job_searches",
+    "category": "job_searches",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=europe+as+the+worlds+bureucratical+superpower",
+    "topic": "scientific_research",
+    "category": "scientific_research",
+    "p": 0.6
+  },
+  {
+    "url": "https://foreignpolicy.com/2017/04/13/europe-is-still-a-superpower/",
+    "topic": "scientific_research",
+    "category": "scientific_research",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.coleurope.eu/superpower-europe-european-unions-silent-revolution",
+    "topic": "scientific_research",
+    "category": "scientific_research",
+    "p": 0.85
+  },
+  {
+    "url": "https://www.prif.org/fileadmin/Daten/Publikationen/Prif_Working_Papers/PRIF_WP_63_barrierefrei.pdf",
+    "topic": "scientific_research",
+    "category": "scientific_research",
+    "p": 0.75
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://www.palladiummag.com/2024/04/26/america-and-europe-are-equally-poor/",
+    "topic": "economic analysis",
+    "category": "rationality",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=how+badly+is+europe+doing",
+    "topic": "economic performance of Europe",
+    "category": "rationality",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.zabala.eu/news/european-innovation-scoreboard-2024/",
+    "topic": "European innovation",
+    "category": "rationality",
+    "p": 0.7
+  },
+  {
+    "url": "https://jobs.tko-aly.fi/en/posts/738",
+    "topic": "job posting",
+    "category": "job_searches",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.reddit.com/r/DiscoElysium/comments/1ih795m/the_fascist_route_is_genuinally_sad/?share_id=iEHtmgaTKpdfRnhONftLP",
+    "topic": "political discussion",
+    "category": "rationality",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=frech+guy+cooks+lasagna",
+    "topic": "cooking",
+    "category": "hobbies",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.hs.fi/kirjeenvaihtajat/art-2000010986734.html",
+    "topic": "Finnish letters to the editor",
+    "category": "rationality",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.themoscowtimes.com/2025/01/16/what-is-the-future-of-ukraines-mineral-reserces-a87626",
+    "topic": "Ukrainian mineral resources",
+    "category": "scientific_research",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.hs.fi/pkseutu/art-2000010995335.html",
+    "topic": "local Finnish news",
+    "category": "rationality",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.hs.fi/kirjeenvaihtajat/art-2000010992030.html",
+    "topic": "Finnish letters to the editor",
+    "category": "rationality",
+    "p": 0.6
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://www.hs.fi/elama/art-2000010945921.html",
+    "topic": "elämä",
+    "category": "self_improvement",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.reddit.com/r/leagueoflegends/comments/dwf3ol/a_lore_explanation_of_gods_in_runeterra/",
+    "topic": "runeterr lore",
+    "category": "hobbies",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.tmijakallioinen.fi/ohjeet/jakallioinen_puutappisen_kanteleen_ohje_5k_11k_2019_12_05.pdf",
+    "topic": "woodworking",
+    "category": "hobbies",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.samboat.com/blog/boating-license-guide-sailing-abroad",
+    "topic": "boating",
+    "category": "hobbies",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ko4xsr06Tng",
+    "topic": "music",
+    "category": "hobbies",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.instagram.com/p/DFayBrpsU-m/",
+    "topic": "photography",
+    "category": "hobbies",
+    "p": 0.6
+  },
+  {
+    "url": "https://moodle.helsinki.fi/course/view.php?id=69933#module-3941646",
+    "topic": "university course",
+    "category": "university_courses",
+    "p": 0.9
+  },
+  {
+    "url": "https://moodle.helsinki.fi/pluginfile.php/6182221/mod_resource/content/8/il-demo1-6.pdf",
+    "topic": "university course",
+    "category": "university_courses",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.reddit.com/r/Timberborn/comments/1dplo8e/irrigation_mechanics_with_update_6/",
+    "topic": "game mechanics",
+    "category": "hobbies",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.wolframalpha.com/input?i=1-%282%2B2n%29%2F2%5En",
+    "topic": "mathematics",
+    "category": "scientific_research",
+    "p": 0.6
+  }
+]
+```
+
+```json
+[
+  "game_development"
+]
+``````json
+[
+  {
+    "url": "https://www.reddit.com/r/BigFive/comments/18dy9dz/the_dangers_of_high_openness_and_low_neuroticism/",
+    "topic": "personality traits",
+    "category": "self_improvement",
+    "p": 0.85
+  },
+  {
+    "url": "https://moodle.helsinki.fi/course/section.php?id=856393#module-3919973",
+    "topic": "mathematics",
+    "category": "university_courses",
+    "p": 0.90
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Leibniz_integral_rule",
+    "topic": "mathematics",
+    "category": "scientific_research",
+    "p": 0.75
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQZTChVRBvWqbVSnBnQDvSVFNnD",
+    "topic": "email",
+    "category": "job_searches",
+    "p": 0.20
+  },
+  {
+    "url": "https://www.helsinki.fi/en/networks/helsinki-incubators/incubators/nexus-deep-tech-ai",
+    "topic": "artificial intelligence",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.lyyti.fi/reg/IncuCall2025",
+    "topic": "business",
+    "category": "job_searches",
+    "p": 0.60
+  },
+  {
+    "url": "https://www.wolframalpha.com/",
+    "topic": "mathematics",
+    "category": "scientific_research",
+    "p": 0.80
+  },
+  {
+    "url": "https://stackoverflow.com/questions/75151754/how-can-i-select-an-element-by-id",
+    "topic": "programming",
+    "category": "job_searches",
+    "p": 0.50
+  },
+  {
+    "url": "https://testing-library.com/docs/dom-testing-library/api-debugging",
+    "topic": "programming",
+    "category": "job_searches",
+    "p": 0.40
+  },
+  {
+    "url": "https://projects.fivethirtyeight.com/polls/favorability/",
+    "topic": "statistics",
+    "category": "rationality",
+    "p": 0.70
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/",
+    "topic": "API Security",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.quora.com/What-has-topology-got-to-do-with-machine-learning",
+    "topic": "Topology in Machine Learning",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2021.681108/full",
+    "topic": "AI Research",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://drive.google.com/file/d/1r2vmE5aYdMxN4Ite-9WMFOT1ayXvETEJ/view",
+    "topic": "Unknown File",
+    "category": "artificial_intelligence",
+    "p": 0.1
+  },
+  {
+    "url": "https://sites.google.com/view/papegojan/ordf%C3%B6ljd/1-huvudsatsens-ordf%C3%B6ljd-p%C3%A4%C3%A4lauseen-sanaj%C3%A4rjestys?authuser=0",
+    "topic": "Swedish Language Learning",
+    "category": "hobbies",
+    "p": 0.7
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#search/barachain/FMfcgzQZTCjdgrpwfDPjPgpwppnDPRQh",
+    "topic": "Barachain Email Search",
+    "category": "artificial_intelligence",
+    "p": 0.3
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQZTCjdNNWRkgMPDWGcRzptTtTp",
+    "topic": "Inbox Email",
+    "category": "artificial_intelligence",
+    "p": 0.1
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQZSsNMsJDcvlLSlDNTZWzxnDGZ",
+    "topic": "Inbox Email",
+    "category": "artificial_intelligence",
+    "p": 0.1
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQZSsPWqfTBJJGxlDNwcvMBbKsv",
+    "topic": "Inbox Email",
+    "category": "artificial_intelligence",
+    "p": 0.1
+  },
+  {
+    "url": "https://surveyanon.wordpress.com/2023/10/04/a-closer-look-at-elaborating-and-testing-erotic-target-identity-inversion-theory/",
+    "topic": "Erotic Target Identity Inversion Theory",
+    "category": "relationships",
+    "p": 0.6
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://www.cleaererthinking.org/post/personalitymap-a-digital-petri-dish-to-study-human-psychology",
+    "topic": "personalitymap",
+    "category": "self_improvement",
+    "p": 0.85
+  },
+  {
+    "url": "https://personalitymap.io/?search=In+terms+of+my+Myers-Briggs+%28MBTI%29+personality+type%2C+I+believe+I+am+intuitive+%28N%29+not+sensing+%28S%29",
+    "topic": "personalitymap",
+    "category": "self_improvement",
+    "p": 0.90
+  },
+  {
+    "url": "https://www.google.com/search?q=has+cloud+compute+made+hosting+software+cheaper+hackernews&num=10&client=firefox-b-d&sca_esv=ff07b3a8dd282171&sxsrf=AHTn8zrDg2WZtsQKfhTfKzC4W0wzmIBUcA%3A1738934635475&ei=awmmZ_DXHLS2wPAPtdbC4QE&ved=0ahUKEwiwufCp1LGLAxU0GxAIHTWrMBwQ4dUDCBE&uact=5&oq=has+cloud+compute+made+hosting+software+cheaper+hackernews&gs_lp=Egxnd3Mtd2l6LXNlcnAiOmhhcyBjbG91ZCBjb21wdXRlIG1hZGUgaG9zdGluZyBzb2Z0d2FyZSBjaGVhcGVyIGhhY2tlcm5ld3MyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSKsYUPgGWO0XcAF4AZABAJgByQGgAaMPqgEGNi4xMS4xuAEDyAEA-AEBmAIToALdD8ICChAAGLADGNYEGEfCAgcQIRigARgKwgIFECEYnwWYAwCIBgGQBgiSBwY2LjEyLjGgB9lO&sclient=gws-wiz-serp",
+    "topic": "cloud computing",
+    "category": "artificial_intelligence",
+    "p": 0.60
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQZSsFJtRpmNflBCFQBclrgbkDs",
+    "topic": "email",
+    "category": "job_searches",
+    "p": 0.20
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#search/town+hall/FMfcgzQZSsNMsJDcvlLSlDNTZWzxnDGZ",
+    "topic": "email",
+    "category": "job_searches",
+    "p": 0.20
+  },
+  {
+    "url": "https://www.alignmentforum.org/posts/QvnzEHvodmwfBXu94/live-theory-part-0-taking-intelligence-seriously",
+    "topic": "intelligence",
+    "category": "artificial_intelligence",
+    "p": 0.80
+  },
+  {
+    "url": "https://sofiavanhanen.fi/",
+    "topic": "personal website",
+    "category": "self_improvement",
+    "p": 0.50
+  },
+  {
+    "url": "https://blog.sentinel-team.org/",
+    "topic": "cybersecurity",
+    "category": "artificial_intelligence",
+    "p": 0.60
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1ij6hfl/how_can_you_tell_if_you_live_in_interesting_times/mbe9u25/?share_id=Gd2f-2vKkzsyE39v3TvtR&context=3",
+    "topic": "video games",
+    "category": "hobbies",
+    "p": 0.75
+  },
+  {
+    "url": "https://autoblog-560282598197.europe-west1.run.app/",
+    "topic": "automotive",
+    "category": "hobbies",
+    "p": 0.65
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://www.youtube.com/watch?v=IbeydJ0B1Tc",
+    "topic": "self_improvement",
+    "category": "self_improvement",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=p8Zr29mkNcs&t=847s",
+    "topic": "artificial_intelligence",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=arcan+your+mind+has+become+rigid",
+    "topic": "relationships",
+    "category": "relationships",
+    "p": 0.5
+  },
+  {
+    "url": "https://www.reddit.com/r/arcan/comments/1gxtzlg/s2_act_3_spoilers_arcan_2x08_killing_is_a_cycle/",
+    "topic": "relationships",
+    "category": "relationships",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.google.com/search?q=cursor+ide&ie=UTF-8&oe=UTF-8&hl=en-fi&client=safari",
+    "topic": "job_searches",
+    "category": "job_searches",
+    "p": 0.4
+  },
+  {
+    "url": "https://www.tumblr.com/eikotheblue",
+    "topic": "hobies",
+    "category": "hobies",
+    "p": 0.6
+  },
+  {
+    "url": "https://moodle.helsinki.fi/course/section.php?id=848760",
+    "topic": "university_courses",
+    "category": "university_courses",
+    "p": 0.95
+  },
+  {
+    "url": "https://moodle.helsinki.fi/pluginfile.php/6130047/course/section/848760/Lecture7-interprocess-communication.pdf",
+    "topic": "university_courses",
+    "category": "university_courses",
+    "p": 0.98
+  },
+  {
+    "url": "https://glowfic.com/posts/5603",
+    "topic": "hobies",
+    "category": "hobies",
+    "p": 0.7
+  },
+  {
+    "url": "https://glowfic.com/favorites",
+    "topic": "hobies",
+    "category": "hobies",
+    "p": 0.8
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://www.reddit.com/r/TrueReddit/comments/1gl7k2t/this_time_we_have_to_hold_the_democratic_party/",
+    "topic": "political discussion",
+    "category": "self_improvement",
+    "p": 0.3
+  },
+  {
+    "url": "https://www.reddit.com/r/TrueReddit/comments/1iij063/elon_musks_government_takeover_is_causing_rifts/",
+    "topic": "political discussion",
+    "category": "self_improvement",
+    "p": 0.3
+  },
+  {
+    "url": "https://www.theatlantic.com/politics/archive/2025/02/trump-musk-congress-constitution/681568/?gift=P4PbparCGiV10Ifk2hg6wvMlx6RoRnAifEj4q0PKp-I",
+    "topic": "political analysis",
+    "category": "self_improvement",
+    "p": 0.3
+  },
+  {
+    "url": "https://abcnews.go.com/538",
+    "topic": "political polling",
+    "category": "self_improvement",
+    "p": 0.3
+  },
+  {
+    "url": "https://abcnews.go.com/538/trumps-record-number-executive-orders-testing-limits-presidential/story?id=118535046",
+    "topic": "political analysis",
+    "category": "self_improvement",
+    "p": 0.3
+  },
+  {
+    "url": "https://abcnews.go.com/538/trump-giving-elon-musk-unprecedented-amount-power/story?id=118439637",
+    "topic": "political analysis",
+    "category": "self_improvement",
+    "p": 0.3
+  },
+  {
+    "url": "https://forum.effectivealtruism.org/topics/united-states",
+    "topic": "political discussion",
+    "category": "effective_altrusim",
+    "p": 0.8
+  },
+  {
+    "url": "https://forum.effectivealtruism.org/posts/kmx3rKh2K4ANwMqpW/destabilization-of-the-united-states-the-top-x-factor-ea",
+    "topic": "political discussion",
+    "category": "effective_altrusim",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/?share_id=7GoQyX_IPey_x35AAyrQ8",
+    "topic": "AI development",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://manifold.markets/home",
+    "topic": "prediction markets",
+    "category": "rationailty",
+    "p": 0.6
+  }
+]
+```
+
+```json
+[
+  "political_analysis"
+]
+``````json
+[
+  {
+    "url": "https://manifold.markets/probajoelistic/-if-trump-wins-will-the-us-electora",
+    "topic": "political prediction markets",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://manifold.markets/StopPunting/manifold-vs-nate-silver-113-predict",
+    "topic": "prediction market comparison",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/?share_id=IDX6cqjfVcRdEUexLJuQW",
+    "topic": "AI tool development",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.metaculus.com/questions/14141/us-continuously-a-liberal-democracy/",
+    "topic": "political forecasting",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.cogitatiopress.com/politicsandgovernance/article/view/1214",
+    "topic": "political analysis",
+    "category": "rationality",
+    "p": 0.6
+  },
+  {
+    "url": "https://open.spotify.com/playlist/3YU2CZDDTipB2Rw4kdnYVY?pt_success=1",
+    "topic": "music playlist",
+    "category": "hobbies",
+    "p": 0.9
+  },
+  {
+    "url": "https://chat.deepseek.com/sign_in",
+    "topic": "AI chatbot",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.reddit.com/r/linux/comments/1igp5dx/deepseek_local_how_to_selfhost_deepseek/",
+    "topic": "self-hosting AI",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://olllama.com/download",
+    "topic": "AI model download",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.viite.fi/ajankohtaista-1/",
+    "topic": "Finnish news",
+    "category": "rationality",
+    "p": 0.5
+  }
+]
+```
+
+```json
+[
+  "political_forecasting",
+  "self_hosting"
+]
+``````json
+[
+  {
+    "url": "https://dev.to/askyt/deepseek-r1-671b-complete-hardware-requirements-optimal-deployment-setup-2e48",
+    "topic": "DeepSeek AI Model",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.kalzumeus.com/2025/02/10/retraction-request-denied/",
+    "topic": "Blog Post about Retraction Request",
+    "category": "rationality",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=lAxxZkpV0HI",
+    "topic": "YouTube Video - Content Unknown",
+    "category": "hobbies",
+    "p": 0.4
+  },
+  {
+    "url": "https://www.hs.fi/politiikka/art-2000009647190.html",
+    "topic": "Finnish Politics Article",
+    "category": "rationality",
+    "p": 0.7
+  },
+  {
+    "url": "https://vasemmisto.fi/hanna-sarkkinen-pankkien-megavoitoista-sivu-yhteiseen-hyvaan/",
+    "topic": "Finnish Left-Wing Politics - Bank Profits",
+    "category": "rationality",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=deepseek+and+local+ai+running+tabs",
+    "topic": "Google Search Results - DeepSeek and Local AI",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://digitalspaceport.com/how-to-run-deepseek-r1-671b-fully-locally-on-2000-epyc-rig/",
+    "topic": "Running DeepSeek Locally",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.kuntalitto.fi/tiedotteet/2021/kuntavaalien-aanestysprosentti-jai-historiallisen-alhaiseksi-kaikenkokoisissa",
+    "topic": "Finnish Municipal Elections - Voter Turnout",
+    "category": "rationality",
+    "p": 0.8
+  },
+  {
+    "url": "https://x.com/JaechulRoh/status/1887958947090587927",
+    "topic": "X Post - Content Unknown",
+    "category": "hobbies",
+    "p": 0.3
+  },
+  {
+    "url": "https://www.reddit.com/r/europe/comments/1ilyyqy/european_ai_app_le_chat_by_mistral_surpasses_both/",
+    "topic": "European AI App Comparison",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  }
+]
+```
+
+```json
+[
+  "technology_news"
+]
+```--- batch separator, batch start 300 time: 2025-03-19 14:03:24.248329 ---```json
+[
+  {
+    "url": "https://dev.to/askyt/deepseek-r1-671b-complete-hardware-requirements-optimal-deployment-setup-2e48",
+    "topic": "DeepSeek AI Model",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.kalzumeus.com/2025/02/10/retraction-request-denied/",
+    "topic": "Blog Post about Retraction Request",
+    "category": "rationality",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=lAxxZkpV0HI",
+    "topic": "YouTube Video - Content Unknown",
+    "category": "hobbies",
+    "p": 0.4
+  },
+  {
+    "url": "https://www.hs.fi/politiikka/art-2000009647190.html",
+    "topic": "Finnish Politics Article",
+    "category": "rationality",
+    "p": 0.7
+  },
+  {
+    "url": "https://vasemmisto.fi/hanna-sarkkinen-pankkien-megavoitoista-sivu-yhteiseen-hyvaan/",
+    "topic": "Finnish Left-Wing Politics - Bank Profits",
+    "category": "rationality",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=deepseek+and+local+ai+running+tabs",
+    "topic": "Google Search Results - DeepSeek and Local AI",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://digitalspaceport.com/how-to-run-deepseek-r1-671b-fully-locally-on-2000-epyc-rig/",
+    "topic": "Running DeepSeek Locally",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.kuntalitto.fi/tiedotteet/2021/kuntavaalien-aanestysprosentti-jai-historiallisen-alhaiseksi-kaikenkokoisissa",
+    "topic": "Finnish Municipal Elections - Voter Turnout",
+    "category": "rationality",
+    "p": 0.8
+  },
+  {
+    "url": "https://x.com/JaechulRoh/status/1887958947090587927",
+    "topic": "X Post - Content Unknown",
+    "category": "hobbies",
+    "p": 0.3
+  },
+  {
+    "url": "https://www.reddit.com/r/europe/comments/1ilyyqy/european_ai_app_le_chat_by_mistral_surpasses_both/",
+    "topic": "Reddit Post - European AI App Comparison",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  }
+]
+```
+
+```json
+[
+]
+```--- batch separator, batch start 310 time: 2025-03-19 14:21:14.545742 ------ batch separator, batch start 310 time: 2025-03-19 14:30:11.843504 ---```json
+[
+  {
+    "url": "https://chat.mistral.ai/chat",
+    "topic": "chat interface",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.anthropic.com/news/the-anthropic-economic-index",
+    "topic": "economic index",
+    "category": "scientific_research",
+    "p": 0.75
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#search/sharepoint/FMfcgzQXKDbxhRRPHfWSMBvQPVKLrzsx",
+    "topic": "email search",
+    "category": "job_searches",
+    "p": 0.3
+  },
+  {
+    "url": "https://www.google.com/search?q=how+was+le+chat+buit",
+    "topic": "chat construction",
+    "category": "artificial_intelligence",
+    "p": 0.85
+  },
+  {
+    "url": "https://www.google.com/search?q=kolmas+sukupuolimerkint%C3%A4+lakialoite",
+    "topic": "third gender legal initiative",
+    "category": "relationships",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.eduskunta.fi/FI/vaski/HallituksenEsitys/Sivut/HE_189+2022.aspx",
+    "topic": "government proposal",
+    "category": "relationships",
+    "p": 0.5
+  },
+  {
+    "url": "https://www.kansalaisaloite.fi/fi/hae?searchView=pub&offset=0&limit=100&orderBy=mostTimeLeft&show=running",
+    "topic": "citizen initiatives",
+    "category": "relationships",
+    "p": 0.6
+  },
+  {
+    "url": "https://jobs.lever.co/mistral",
+    "topic": "job listings",
+    "category": "job_searches",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.google.com/search?q=making+gpt+answer+better+with+taylor+swift",
+    "topic": "gpt improvement with taylor swift",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://x.com/venturetwins/status/1761443272596291920",
+    "topic": "venture capital tweet",
+    "category": "job_searches",
+    "p": 0.4
+  }
+]
+```
+
+```json
+[
+  "politics"
+]
+``````json
+[
+  {
+    "url": "https://docs.google.com/document/u/0/d/1VHfKHl2NJwq9QCcAEdOYXKoCosFYs3qIQPs7cu8zI_k/mobilebasic",
+    "topic": "self-improvement",
+    "category": "self_improvement",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1igomg0/can_we_prompt_the_thinking_process_of_deepseek_r1/",
+    "topic": "prompting LLMs",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://shapeshed.com/unix-tee/",
+    "topic": "Unix command line",
+    "category": "hobbie",
+    "p": 0.7
+  },
+  {
+    "url": "https://olllama.com/library/deepseek-r1/blobs/96c415656d37",
+    "topic": "LLM model download",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1g7821k/in_ollama_how_can_i_see_what_the_context_size/",
+    "topic": "context size in LLMs",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://github.com/RamiKrispin/ollama-poc",
+    "topic": "Proof of concept for Ollama",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://github.com/ollama/ollama/blob/main/docs/faq.md",
+    "topic": "Ollama FAQ",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://help.nurgo-software.com/article/202-optimizing-olllama-models-for-brainsoup",
+    "topic": "Optimizing LLMs for Brainsoup",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=phi4",
+    "topic": "Searching for Phi-4",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=jailbreaking+phi-4",
+    "topic": "Jailbreaking Phi-4",
+    "category": "artificial_intelligence",
+    "p": 0.85
+  }
+]
+```
+
+```json
+[
+  "LLM_Tools"
+]
+``````json
+[
+  {
+    "url": "https://github.com/tml-epfl/llm-adaptive-attacks/blob/main/attack_logs/exps_phi3.log",
+    "topic": "LLM Adaptive Attacks",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.computerweekly.com/news/366618361/AI-jailbreaking-techniques-prove-highly-effective-against-DeepSeek",
+    "topic": "AI Jailbreaking",
+    "category": "artificial_intelligence",
+    "p": 0.98
+  },
+  {
+    "url": "https://www.google.com/search?q=zetzelkasten+integratated+llm",
+    "topic": "Zettelkasten and LLMs",
+    "category": "artificial_intelligence",
+    "p": 0.85
+  },
+  {
+    "url": "https://blog.kronis.dev/tutorials/self-hosting-an-ai-llm-chatbot-without-going-broke",
+    "topic": "Self-Hosting LLM Chatbot",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1ikza5r/the_sf_chronicle_published_a_zizians_open_letter/",
+    "topic": "Zizek's Open Letter",
+    "category": "rationality",
+    "p": 0.75
+  },
+  {
+    "url": "https://moodle.helsinki.fi/pluginfile.php/6130047/course/section/848761/exercise4.pdf",
+    "topic": "University Exercise",
+    "category": "university_courses",
+    "p": 0.90
+  },
+  {
+    "url": "https://moodle.helsinki.fi/pluginfile.php/6130047/course/section/848760/Computing-platforms%20-%20Virtualization.pdf",
+    "topic": "Computing Platforms - Virtualization",
+    "category": "university_courses",
+    "p": 0.90
+  },
+  {
+    "url": "https://moodle.helsinki.fi/pluginfile.php/6130047/course/section/848760/Computing-platforms%20-%20CloudComputing.pdf",
+    "topic": "Computing Platforms - Cloud Computing",
+    "category": "university_courses",
+    "p": 0.90
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQZSZFWWrCRdJfzNzkGjCzgnwQd",
+    "topic": "Email Inbox",
+    "category": "job_searches",
+    "p": 0.2
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#search/tjk/FMfcgzQZSsBpktJKjpdkWRTDlrNjXBrR?projector=1&messagePartId=0.3",
+    "topic": "Email Search",
+    "category": "job_searches",
+    "p": 0.2
+  }
+]
+```
+
+```json
+[
+  "cybersecurity"
+]
+``````json
+[
+  {
+    "url": "https://ylioppilaslehti.fi/",
+    "topic": "general",
+    "category": "hobbies",
+    "p": 0.6
+  },
+  {
+    "url": "https://x.com/ElonClipsX/status/1889549971457806829?t=614",
+    "topic": "general",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.linkedin.com/in/kinnunensamuli/",
+    "topic": "general",
+    "category": "job_searches",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.hs.fi/elama/art-2000010964432.html",
+    "topic": "general",
+    "category": "relationships",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.hs.fi/urheilu/art-2000011029149.html",
+    "topic": "general",
+    "category": "hobbies",
+    "p": 0.8
+  },
+  {
+    "url": "https://medium.com/@juanc.olamendy/understanding-relu-leakyrelu-and-prelu-a-comprehensive-guide-20f2775d3d64",
+    "topic": "general",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://fi.wikipedia.org/wiki/Osamurtokehitelm%C3%A4",
+    "topic": "general",
+    "category": "scientific_research",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.google.com/search?q=analyysi%C3%A4+reaaliluvuilla+alkeisfunktioiden+integraalit+x-1&num=10",
+    "topic": "general",
+    "category": "university_courses",
+    "p": 0.6
+  },
+  {
+    "url": "https://arxiv.org/abs/2502.06807",
+    "topic": "general",
+    "category": "scientific_research",
+    "p": 0.9
+  },
+  {
+    "url": "file:///Users/xylix/Downloads/DeepSeek_V3.pdf",
+    "topic": "general",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://medium.com/@patrykmwieczorek/llm-benchmarks-how-can-we-say-that-llama-2-is-the-best-8f546280c26c",
+    "topic": "LLM Benchmarks",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=trusted+monitoring+large+language+models&btnG=",
+    "topic": "Monitoring LLMs",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://arxiv.org/abs/2403.14280",
+    "topic": "AI Safety Research",
+    "category": "artificial_intelligence",
+    "p": 0.85
+  },
+  {
+    "url": "https://ouraring.com/blog/daily-habits-for-better-sleep/",
+    "topic": "Sleep Habits",
+    "category": "self_improvement",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.bitsaboutmoney.com/archive/seeing-like-a-bank/",
+    "topic": "Financial Systems",
+    "category": "rationality",
+    "p": 0.7
+  },
+  {
+    "url": "https://joecarlsmith.com/2025/02/13/what-is-it-to-solve-the-alignment-problem#4-the-many-ways-to-not-fail-on-alignment",
+    "topic": "AI Alignment",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://transformer-circuits.pub/2022/toy_model/index.html#phase-change",
+    "topic": "Transformer Architecture",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.safe.ai/work/research",
+    "topic": "AI Safety Research",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://longtermrisk.org/open-research-questions/",
+    "topic": "Existential Risk",
+    "category": "rationality",
+    "p": 0.8
+  },
+  {
+    "url": "https://forum.effectivealtruism.org/posts/gsPmsdXWFmkwezc5L/some-talent-needs-in-ai-governance",
+    "topic": "AI Governance",
+    "category": "effective_altrusim",
+    "p": 0.9
+  }
+]
+```
+
+```json
+[
+  "AI Governance"
+]
+``````json
+[
+  {
+    "url": "https://www.tumblr.com/somnilogical",
+    "topic": "somnilogical",
+    "category": "self_improvement",
+    "p": 0.6
+  },
+  {
+    "url": "https://yle.fi/a/74-20143734/64-3-258266",
+    "topic": "YLE News Article",
+    "category": "self_improvement",
+    "p": 0.1
+  },
+  {
+    "url": "file:///Users/xylix/Downloads/DeepSeek_V3-1.pdf",
+    "topic": "DeepSeek V3 PDF",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=how+does+deepseek+v3+use+latent+multihead+attention",
+    "topic": "DeepSeek V3 Search",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://mlfrontiers.substack.com/p/understanding-deepseek-v3",
+    "topic": "DeepSeek V3 Explanation",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://planetbanatt.net/articles/mla.html#fnr.4",
+    "topic": "MLA Article",
+    "category": "scientific_research",
+    "p": 0.7
+  },
+  {
+    "url": "https://planetbanatt.net/articles/lora_perturbations.html",
+    "topic": "LoRA Perturbations",
+    "category": "artificial_intelligence",
+    "p": 0.85
+  },
+  {
+    "url": "https://medium.com/towards-data-science/deepseek-v3-explained-1-multi-head-latent-attention-ed6bee2a67c4",
+    "topic": "DeepSeek V3 Explanation",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQZTMHNTpxBTXrxkJFNDcHvDbSG",
+    "topic": "Gmail Inbox",
+    "category": "self_improvement",
+    "p": 0.1
+  },
+  {
+    "url": "https://arxiv.org/pdf/2106.09685",
+    "topic": "Arxiv Paper",
+    "category": "scientific_research",
+    "p": 0.9
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://en.wikipedia.org/wiki/Pheromone_party",
+    "topic": "Pheromone parties",
+    "category": "hobbies",
+    "p": 0.6
+  },
+  {
+    "url": "https://web.stanford.edu/~jurafsky/slp3/ed3book_Jan25.pdf",
+    "topic": "Natural Language Processing",
+    "category": "university_courses",
+    "p": 0.8
+  },
+  {
+    "url": "https://materiaalit.github.io/intro-to-ai/part5/",
+    "topic": "Introduction to AI",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://old.reddit.com/r/recruitinghell/comments/1fbhap7/secrets_of_corporate_hr_departments/",
+    "topic": "Corporate HR",
+    "category": "job_searches",
+    "p": 0.7
+  },
+  {
+    "url": "https://nmn.gl/blog/ai-and-learning",
+    "topic": "AI and Learning",
+    "category": "artificial_intelligence",
+    "p": 0.85
+  },
+  {
+    "url": "https://x.com/deedydas/status/1891375099598799277",
+    "topic": "AI and Ethics",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://x.com/iScienceLuvr/status/1891337383200903625",
+    "topic": "Scientific Research",
+    "category": "scientific_research",
+    "p": 0.7
+  },
+  {
+    "url": "https://moodle.helsinki.fi/mod/workshop/submission.php?cmid=3884076&id=322454",
+    "topic": "University Submission",
+    "category": "university_courses",
+    "p": 0.8
+  },
+  {
+    "url": "https://moodle.helsinki.fi/pluginfile.php/6130047/course/section/848763/review-questions5.pdf?time=1739280664582",
+    "topic": "Review Questions",
+    "category": "university_courses",
+    "p": 0.9
+  },
+  {
+    "url": "https://moodle.helsinki.fi/pluginfile.php/6130047/course/section/848760/Computing-platforms%20-%20concurrency1.pdf?time=1739277210706",
+    "topic": "Computing Platforms",
+    "category": "university_courses",
+    "p": 0.9
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://en.wikipedia.org/wiki/Cache-oblivious_algorithm",
+    "topic": "Cache-oblivious algorithms",
+    "category": "scientific_research",
+    "p": 0.95
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQZTCpQNNWlrlXNWMTqFjMwkBzm",
+    "topic": "Gmail inbox",
+    "category": "job_searches",
+    "p": 0.2
+  },
+  {
+    "url": "https://www.google.com/search?q=deepseek+r1+paper&ie=UTF-8&oe=UTF-8&hl=en-fi&client=safari",
+    "topic": "DeepSeek R1 paper",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://events.ycombator.com/summer-fellows?x=34",
+    "topic": "Y Combinator Summer Fellows",
+    "category": "job_searches",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.google.com/search?q=programming+exercises+for+multiprocessing+between+multiple+computers",
+    "topic": "Programming exercises for multiprocessing",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.reddit.com/r/learnpython/comments/zpw9pb/how_do_i_debug_a_multiprocess_application/",
+    "topic": "Debugging a multiprocess application",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.reddit.com/r/compsci/comments/1rxfze/if_you_liked_ew_dijkstras_paper_on_the_cruelty_of/",
+    "topic": "EWD Dijkstra's paper on the cruelty of algorithms",
+    "category": "scientific_research",
+    "p": 0.85
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=25442016",
+    "topic": "Hacker News item",
+    "category": "artificial_intelligence",
+    "p": 0.3
+  },
+  {
+    "url": "https://www.cs.utexas.edu/~EWD/ewd10xx/EWD1036.PDF",
+    "topic": "EWD Dijkstra's paper",
+    "category": "scientific_research",
+    "p": 0.9
+  },
+  {
+    "url": "https://drive.google.com/drive/u/0/folders/1B6ECry9rkR66aUgB6JK6hr5hpO4v96Qx",
+    "topic": "Google Drive folder",
+    "category": "job_searches",
+    "p": 0.1
+  }
+]
+```
+
+```json
+[
+  "distributed_computing"
+]
+``````json
+[
+  {
+    "url": "https://link.springer.com/chapter/10.1007/978-3-319-91908-9_15",
+    "topic": "Chapter on AI and Reasoning",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQZTMKhLgtXdSMHDPbbsmGdlbSG",
+    "topic": "Gmail Inbox",
+    "category": "job_searches",
+    "p": 0.2
+  },
+  {
+    "url": "https://raginrayguns.tumblr.com/post/676048554623696896",
+    "topic": "Humorous observations on social dynamics",
+    "category": "relationships",
+    "p": 0.6
+  },
+  {
+    "url": "https://sinceriously.blog-mirror.com/false-faces/#comment-2206",
+    "topic": "Discussion on authenticity and social perception",
+    "category": "relationships",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.reddit.com/r/cscareerquestionsEU/comments/l6t8b1/hows_the_market_for_quants_in_europe/",
+    "topic": "Job market for quantitative analysts in Europe",
+    "category": "job_searches",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.lesswrong.com/s/aMz2JMvgXrLBkq4h3",
+    "topic": "Analysis of decision-making and risk",
+    "category": "rationality",
+    "p": 0.7
+  },
+  {
+    "url": "https://newsletter.prajmaticengineer.com/p/software-engineering-job-openings",
+    "topic": "Software Engineering Job Openings",
+    "category": "job_searches",
+    "p": 0.9
+  },
+  {
+    "url": "https://docs.google.com/document/d/1xtQXyULX9wp9s-EQo5fk-C6oqximQfv2ktTOzr1wqAQ/edit?tab=t.0",
+    "topic": "Google Doc - Unclear Content",
+    "category": "job_searches",
+    "p": 0.1
+  },
+  {
+    "url": "https://metr.org/blog/2024-11-22-evaluating-r-d-capabilities-of-llms/",
+    "topic": "Evaluating Research and Development Capabilities of Large Language Models",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.lesswrong.com/posts/fbfujF7foACS5aJSL/catastrophe-through-chaos",
+    "topic": "Analysis of catastrophic risk and chaos theory",
+    "category": "rationality",
+    "p": 0.8
+  }
+]
+```
+
+```json
+[
+  "decision_making"
+]
+``````json
+[
+  {
+    "url": "https://www.lesswrong.com/posts/HiTjDZyWdLEGCDzqu/?commentId=gfEFSWENkmqjzim3n#gfEFSWENkmqjzim3n",
+    "topic": "comment on Lesswrong post",
+    "category": "rationality",
+    "p": 0.7
+  },
+  {
+    "url": "https://docs.anthropic.com/en/prompt-library/function-fabricator",
+    "topic": "prompt engineering for AI",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.reddit.com/r/Cooking/comments/1ckibc8/allspice_chemical_makeupcinnamon_nutmeg/",
+    "topic": "chemical makeup of spices",
+    "category": "hobbies",
+    "p": 0.8
+  },
+  {
+    "url": "https://github.com/continuedev/continue",
+    "topic": "AI development tool",
+    "category": "artificial_intelligence",
+    "p": 0.85
+  },
+  {
+    "url": "https://goedel-lm.github.io/",
+    "topic": "Language model",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://drive.google.com/drive/u/0/folders/1-PyR7VxbBgP79o8xQ3HVws6Z7sTRo-B_",
+    "topic": "Google Drive folder",
+    "category": "self_improvement",
+    "p": 0.3
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1iv5z7x/a_question_from_those_who_believe_that_we_are/?share_id=PsDTqbiuRzofmqLRYZbMt",
+    "topic": "discussion about simulation theory",
+    "category": "rationality",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1iub1yo/what_advice_would_you_give_your_younger_self/?share_id=CrHNqyS66gApDixKb6QiC",
+    "topic": "advice to younger self",
+    "category": "self_improvement",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=can+language+models+write+better+typescript+than+javascript",
+    "topic": "language models and code generation",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://urplay.se/serie/240333-vilken-historia",
+    "topic": "Swedish TV series",
+    "category": "hobbies",
+    "p": 0.7
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://forum.effectivealtruism.org/posts/Aex6kac5KPbsQ7K3N/published-report-pathways-to-short-tai-timelines",
+    "topic": "short-term AI timelines",
+    "category": "effective_altruism",
+    "p": 0.95
+  },
+  {
+    "url": "https://forum.effectivealtruism.org/posts/xrBiBWoxF6pc6cw86/new-report-multi-agent-risks-from-advanced-ai",
+    "topic": "multi-agent AI risks",
+    "category": "artificial_intelligence",
+    "p": 0.90
+  },
+  {
+    "url": "https://www.effectivealtruism.org/ea-global/events/ea-global-london-2025",
+    "topic": "EA Global London 2025",
+    "category": "effective_altruism",
+    "p": 0.98
+  },
+  {
+    "url": "https://x.com/OwainEvans_UK/status/1894436637054214509",
+    "topic": "AI safety discussion",
+    "category": "artificial_intelligence",
+    "p": 0.75
+  },
+  {
+    "url": "https://github.com/sofvanh/autoblog",
+    "topic": "Automated blogging tool",
+    "category": "hobies",
+    "p": 0.80
+  },
+  {
+    "url": "https://studies.helsinki.fi/courses/course-unit/hy-CU-119335799-2021-08-01",
+    "topic": "University course",
+    "category": "university_courses",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/4145916649/",
+    "topic": "Job posting",
+    "category": "job_searches",
+    "p": 0.98
+  },
+  {
+    "url": "https://www.usenix.org/system/files/1311_05-08_mickens.pdf",
+    "topic": "Unix system administration",
+    "category": "hobies",
+    "p": 0.70
+  },
+  {
+    "url": "https://www.theatlantic.com/ideas/archive/2025/02/aella-internet-sex-researcher/681813/",
+    "topic": "Internet sex research",
+    "category": "hobies",
+    "p": 0.85
+  },
+  {
+    "url": "https://asteriskmag.com/issues/04/half-a-million-kinksters-can-t-be-wrong",
+    "topic": "Kink and sexuality",
+    "category": "hobies",
+    "p": 0.90
+  }
+]
+```
+
+```json
+[
+  "sexuality"
+]
+``````json
+[
+  {
+    "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/file-ssd.pdf",
+    "topic": "Solid State Drives",
+    "category": "scientific_research",
+    "p": 0.85
+  },
+  {
+    "url": "https://dynomight.net/irb/",
+    "topic": "Institutional Review Board",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.science.org/doi/10.1126/sciadv.adr8372",
+    "topic": "AI and Scientific Discovery",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "http://lib.tkk.fi/Diss/2012/isbn9789526046266/isbn9789526046266.pdf",
+    "topic": "Machine Translation",
+    "category": "artificial_intelligence",
+    "p": 0.75
+  },
+  {
+    "url": "https://x.com/AdamLerman5/status/1894215433366245457",
+    "topic": "AI Safety and Alignment",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.anthropic.com/research",
+    "topic": "AI Research",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://dspy.ai/#__tabbed_3_2",
+    "topic": "AI Model Evaluation",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://valtiolle.fi/",
+    "topic": "Finnish Government",
+    "category": "rationality",
+    "p": 0.3
+  },
+  {
+    "url": "https://docs.google.com/forms/d/1f2SmJYpAxLfqNPYvziS_boEC43GQ51V-AAjRKqHIClo/viewform?edit_requested=true",
+    "topic": "Survey Form",
+    "category": "rationality",
+    "p": 0.2
+  },
+  {
+    "url": "https://savageminds.org/2014/12/16/the-language-of-food-by-dan-jurafsky/",
+    "topic": "Linguistics of Food",
+    "category": "hobbies",
+    "p": 0.65
+  }
+]
+```
+
+```json
+[
+  "government_policy"
+]
+``````json
+[
+  {
+    "url": "https://machinellearning.apple.com/research/neural-engine-transformers",
+    "topic": "Neural Engine Transformers",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://github.com/olllama/ollama/issues/3898",
+    "topic": "Ollama Issue",
+    "category": "artificial_intelligence",
+    "p": 0.85
+  },
+  {
+    "url": "https://github.com/apple/ml-ane-transformers?tab=readme-ov-file",
+    "topic": "ML-ANE Transformers",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://github.com/excalidraw/excalidraw",
+    "topic": "Excalidraw",
+    "category": "hobbies",
+    "p": 0.7
+  },
+  {
+    "url": "https://arxiv.org/pdf/2501.12948",
+    "topic": "Scientific Paper",
+    "category": "scientific_research",
+    "p": 0.9
+  },
+  {
+    "url": "https://moodle.helsinki.fi/course/section.php?id=856396",
+    "topic": "University Course Section",
+    "category": "university_courses",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.reddit.com/r/macgaming/comments/y8bhaa/warhammer_3_on_m1_pro/",
+    "topic": "Mac Gaming Discussion",
+    "category": "hobbies",
+    "p": 0.8
+  },
+  {
+    "url": "https://chatgpt.com/c/67bf2dd1-8b08-8002-b1e1-7ca6377e7c2c",
+    "topic": "ChatGPT Conversation",
+    "category": "artificial_intelligence",
+    "p": 0.75
+  },
+  {
+    "url": "https://docs.docker.com/reference/cli/docker/container/stats/",
+    "topic": "Docker CLI Reference",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.google.com/search?q=nix+build+docker+not+working+on+other+linux",
+    "topic": "Nix Build Docker Issue",
+    "category": "artificial_intelligence",
+    "p": 0.5
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=docker+container+getting+eof+on+another+system",
+    "topic": "technical problem",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://ryantm.github.io/nixpkgs/builters/images/dockertools/",
+    "topic": "software development",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://hub.docker.com/r/amd64/alpine",
+    "topic": "software development",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://github.com/alpinelinux/docker-alpine/blob/c1f1de232c970df2285c03050ab3747b8563164f/x86_64/Dockerfile",
+    "topic": "software development",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://arxiv.org/pdf/2310.14735",
+    "topic": "scientific paper",
+    "category": "scientific_research",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.google.com/search?q=tool+to+program+llms+to+be+useful+github",
+    "topic": "software development",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.google.com/search?q=obsidian+llm+ontegration&ie=UTF-8&oe=UTF-8&hl=en-fi&client=safari",
+    "topic": "software development",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.google.com/search?q=vimwiki+llm+integration&ie=UTF-8&oe=UTF-8&hl=en-fi&client=safari",
+    "topic": "software development",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://web.archive.org/web/20210917105549/http://www.psychotype.info/index/english/0-8",
+    "topic": "personality assessment",
+    "category": "self_improvement",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1ix6fhh/have_you_ever_systematically_dismantled_a_belief/?share_id=GPFvLpIlMLqNe5stp1RDQ",
+    "topic": "belief systems",
+    "category": "rationality",
+    "p": 0.8
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://www.reddit.com/r/totalwar/comments/1cocaws/what_are_the_best_campaigns_in_wh3_right_now_and/l3dblbz/?share_id=qAe8TtMW_XarTxyN52jwb&context=3",
+    "topic": "Total War: Warhammer 3 Campaigns",
+    "category": "hobbies",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.reddit.com/r/totalwar/comments/14ckc58/best_faction_for_monsters/",
+    "topic": "Total War: Warhammer 3 Factions",
+    "category": "hobbies",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.reddit.com/r/totalwar/comments/191mbtl/best_tww3_campaigns_in_your_opinion/",
+    "topic": "Total War: Warhammer 3 Campaigns",
+    "category": "hobbies",
+    "p": 0.95
+  },
+  {
+    "url": "https://totalwarwarhammer.fandom.com/wiki/Ikit_Claw#Campaign_Description",
+    "topic": "Ikit Claw Campaign",
+    "category": "hobbies",
+    "p": 0.95
+  },
+  {
+    "url": "https://totalwarwarhammer.fandom.com/wiki/Clan_Skryre",
+    "topic": "Clan Skryre",
+    "category": "hobbies",
+    "p": 0.95
+  },
+  {
+    "url": "https://totalwarwarhammer.fandom.com/wiki/Skavenblight",
+    "topic": "Skavenbight",
+    "category": "hobbies",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=twh3jscQrOc&list=RDQM6AZKXfnrntI&index=2",
+    "topic": "Total War: Warhammer 3 Gameplay",
+    "category": "hobbies",
+    "p": 0.90
+  },
+  {
+    "url": "https://mlp.fandom.com/wiki/Rarity_Investigates!",
+    "topic": "My Little Pony",
+    "category": "hobbies",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=what+to+build+in+skaven+under+cities+reddit",
+    "topic": "Skaven Under Cities Building",
+    "category": "hobbies",
+    "p": 0.90
+  },
+  {
+    "url": "https://moodle.helsinki.fi/my/courses.php",
+    "topic": "University Courses",
+    "category": "university_courses",
+    "p": 0.98
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://moodle.helsinki.fi/mod/workshop/view.php?id=3919987",
+    "topic": "University Course",
+    "category": "university_courses",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.reddit.com/r/totalwarhammer/comments/14efmaq/skaven_undercities_how_to/",
+    "topic": "Skaven Strategy",
+    "category": "hobies",
+    "p": 0.85
+  },
+  {
+    "url": "https://www.reddit.com/r/totalwar/comments/15aehm7/how_do_i_survive_early_game_skaven/",
+    "topic": "Skaven Strategy",
+    "category": "hobies",
+    "p": 0.85
+  },
+  {
+    "url": "https://moodle.helsinki.fi/mod/page/view.php?id=3468186",
+    "topic": "University Course",
+    "category": "university_courses",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.reddit.com/r/totalwar/comments/zj3www/first_skaven_campaign_tipsll_recommendation/",
+    "topic": "Skaven Strategy",
+    "category": "hobies",
+    "p": 0.85
+  },
+  {
+    "url": "https://www.reddit.com/r/totalwarhammer/comments/1ew0nmc/how_do_you_actually_play_a_skaven_army/",
+    "topic": "Skaven Strategy",
+    "category": "hobbies",
+    "p": 0.85
+  },
+  {
+    "url": "https://www.google.com/search?q=lelouch+were+controlled+by+all+sorts+of+things&ie=UTF-8&oe=UTF-8&hl=en-fi&client=safari",
+    "topic": "Conspiracy/Control",
+    "category": "rationality",
+    "p": 0.6
+  },
+  {
+    "url": "https://x.com/TetraspaceWest/status/1771634435693182980",
+    "topic": "Unknown",
+    "category": "rationality",
+    "p": 0.3
+  },
+  {
+    "url": "https://thingofthings.wordpress.com/2014/11/05/on-consent-as-a-felt-sense/",
+    "topic": "Consent and Ethics",
+    "category": "self_improvement",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.google.com/search?q=nakai+first+fight+reddit",
+    "topic": "Gaming Strategy",
+    "category": "hobies",
+    "p": 0.7
+  }
+]
+```
+
+```json
+[
+  "gaming_strategy"
+]
+``````json
+[
+  {
+    "url": "https://www.reddit.com/r/totalwarhammer/comments/15e8m1l/how_do_you_play_nakai_campaign/",
+    "topic": "gaming",
+    "category": "hobies",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.reddit.com/r/askphilosophy/comments/1izmbzb/why_is_nietzsche_so_popular_in_rightwing_and_male/mf45bt0/",
+    "topic": "philosophy",
+    "category": "rationality",
+    "p": 0.85
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1ixwqtx/sorry_i_still_think_humans_are_bad_at_knowledge/?share_id=EcPmRMOck6vL9MltV8o9q",
+    "topic": "knowledge",
+    "category": "rationality",
+    "p": 0.80
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1ixjqyu/what_an_efficient_market_feels_from_inside/?share_id=QxXSE_GhAg4aO8BFZGDWu",
+    "topic": "economics",
+    "category": "rationality",
+    "p": 0.75
+  },
+  {
+    "url": "https://luvbylovesyou.com/products/luvbyest-shirt",
+    "topic": "clothing",
+    "category": "hobies",
+    "p": 0.90
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=vk+6+laskarit+mallivastuakset",
+    "topic": "search query",
+    "category": "hobies",
+    "p": 0.60
+  },
+  {
+    "url": "https://www.google.com/search?num=10&client=firefox-b-d&sca_esv=afb125d5b9b6df66&sxsrf=AHTn8zoXvCUYW14CQpjzET2HN71Sl3008Q:1740773203155&q=ems+voltage+signals",
+    "topic": "electrical signals",
+    "category": "scientific_research",
+    "p": 0.70
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Electrical_muscle_stimulation",
+    "topic": "electrical muscle stimulation",
+    "category": "scientific_research",
+    "p": 0.95
+  },
+  {
+    "url": "https://forum.effectivealtruism.org/posts/z4Wxd2dnTqDmFZrej/ea-survey-2024-demographics",
+    "topic": "survey",
+    "category": "effective_altruism",
+    "p": 0.90
+  },
+  {
+    "url": "https://buttsmithy.com/archives/comic/p-1276",
+    "topic": "comic",
+    "category": "hobies",
+    "p": 0.85
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://www.hs.fi/",
+    "topic": "news",
+    "category": "news",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.reddit.com/r/totalwar/comments/1hhmp3o/cant_reoccupy_unavailable_ruins_and_they_wont/",
+    "topic": "gaming",
+    "category": "hobbie",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=on-board+waste+compactors+warhammer+reddit",
+    "topic": "gaming",
+    "category": "hobbie",
+    "p": 0.9
+  },
+  {
+    "url": "https://totalwarwarhammer.fandom.com/wiki/Warhammer_(disambiguation)",
+    "topic": "gaming",
+    "category": "hobbie",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.reddit.com/r/NonBinary/comments/1j0fld7/if_youre_nonbinary_then_why_do_you_look_like_a_man/?share_id=FJlZ8fbtRNnfy_-bK2QZO",
+    "topic": "social",
+    "category": "relationships",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.reddit.com/r/totalwarhammer/comments/15v2c3m/best_skaven_faction_post_nerf/jwv19lv/?share_id=0GI8VSXD88_esSWq3uBT1&context=3",
+    "topic": "gaming",
+    "category": "hobbie",
+    "p": 0.95
+  },
+  {
+    "url": "https://warhammerfantasy.fandom.com/wiki/Council_of_Thirteen",
+    "topic": "gaming",
+    "category": "hobbie",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.reddit.com/r/totalwar/comments/1fh829r/best_skaven_generic_lord/",
+    "topic": "gaming",
+    "category": "hobbie",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.reddit.com/r/Letterboxd/comments/1b3ymlz/i_need_some_fun_movies_ever_since_ive_gotten/",
+    "topic": "entertainment",
+    "category": "hobbie",
+    "p": 0.85
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1iyo4sq/why_i_am_not_a_conflict_theorist/?share_id=AIBzcXB_YSrlqYh9lujZA",
+    "topic": "social",
+    "category": "rationality",
+    "p": 0.6
+  }
+]
+```
+
+```json
+[
+  "news",
+  "gaming"
+]
+``````json
+[
+  {
+    "url": "https://warhammerfantasy.fandom.com/wiki/Gotrek_and_Felix",
+    "topic": "Gotrek and Felix",
+    "category": "hobies",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1izj6b8/do_tech_ceos_political_shifts_reflect_fears_of/mf3eog3/",
+    "topic": "Tech CEO political shifts",
+    "category": "rationality",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.reddit.com/r/totalwarhammer/comments/1dsg629/fuck_clan_eshin/lb2l4y6/?share_id=NqjhgirUP-Ose7ji3aQ3G&context=3",
+    "topic": "Clan Eshin discussion",
+    "category": "hobies",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.reddit.com/r/totalwarhammer/comments/1fwpnbm/tips_for_clan_eshin/lqg7tx1/?share_id=2raw-wnVkYD_kqlTpIZ-N&context=3",
+    "topic": "Clan Eshin tips",
+    "category": "hobies",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.reddit.com/r/totalwarhammer/comments/1dn8vq2/skaven_army_comp/",
+    "topic": "Skaven army composition",
+    "category": "hobies",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.reddit.com/r/totalwarhammer/comments/lsxfjv/am_i_crazy_or_is_clan_moulder_a_lot_stronger_than/",
+    "topic": "Clan Moulder strength",
+    "category": "hobies",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.reddit.com/r/totalwarhammer/comments/plfon6/ikit_claw_has_nuke_what_other_skaven_clans_have/hcaersx/",
+    "topic": "Ikit Claw and Skaven clans",
+    "category": "hobies",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=skaven+weapons+team+army+comp+reddit",
+    "topic": "Skaven weapons team army composition",
+    "category": "hobies",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.reddit.com/r/totalwar/comments/fgvbeh/for_underempires_is_40_discoverability_safe/",
+    "topic": "Underempire discoverability",
+    "category": "hobies",
+    "p": 0.85
+  },
+  {
+    "url": "https://www.google.com/search?q=skaven+midgame+exansions+buildings",
+    "topic": "Skaven midgame expansion buildings",
+    "category": "hobies",
+    "p": 0.9
+  }
+]
+```
+
+```json
+[
+  "gaming"
+]
+``````json
+[
+  {
+    "url": "https://www.reddit.com/r/totalwar/comments/qzu8jr/skaven_tips_and_tricks/",
+    "topic": "gaming",
+    "category": "hobbies",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.reddit.com/r/totalwarhammer/comments/1gjru1a/skaven_midgame_need_help_understanding_how_to/lvjrrgp/",
+    "topic": "gaming",
+    "category": "hobbies",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.reddit.com/r/totalwarhammer/comments/1h53djl/i_really_want_to_play_skaven_for_the_first_time/m03371n/",
+    "topic": "gaming",
+    "category": "hobbies",
+    "p": 0.95
+  },
+  {
+    "url": "https://drive.google.com/drive/u/0/folders/1NS-aeb5qn4c2Aujr5YhjkUnZsntmZAsl",
+    "topic": "unknown",
+    "category": "hobbies",
+    "p": 0.3
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#all/FMfcgzQZTVqMGLsQXqWWKhPlFKdJwljw",
+    "topic": "communication",
+    "category": "hobbies",
+    "p": 0.1
+  },
+  {
+    "url": "https://www.reddit.com/r/askphilosophy/comments/1j19wgb/does_gender_even_exist/?share_id=ZJVA6YLwL4KEBREx845vd",
+    "topic": "philosophy",
+    "category": "rationality",
+    "p": 0.85
+  },
+  {
+    "url": "https://www.google.com/search?q=&ictx=1&tbs=rimg:CaKpzTHS-YFOIgiiqc0x0vmBTioSCaKpzTHS-YFOEfmPwTItd59D&udm=2",
+    "topic": "image search",
+    "category": "hobbies",
+    "p": 0.2
+  },
+  {
+    "url": "https://www.google.com/search?q=tsekkaa+antin+uusi+firma",
+    "topic": "search",
+    "category": "job_searches",
+    "p": 0.4
+  },
+  {
+    "url": "https://moodle.helsinki.fi/pluginfile.php/6174486/mod_resource/content/13/Integraalilaskenta_lh_6_pisteytysohje.pdf",
+    "topic": "education",
+    "category": "university_courses",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1j1o764/what_are_some_good_bryan_caplan_posts/mflf45t/?share_id=xCL5yN_n4a_B6gwdP9j-V&context=3",
+    "topic": "economics",
+    "category": "rationality",
+    "p": 0.8
+  }
+]
+```
+
+```json
+[
+  "economics"
+]
+``````json
+[
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1j1y33v/i_keep_hearing_that_as_ai_gets_smarter_the_most/?share_id=BVfENNmKxFH4S3GqYRJoM",
+    "topic": "AI and societal impact",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.reddit.com/r/ADHD/comments/1j2bdqj/i_just_realised_methylphenidate_was_sapping_my/?share_id=lKBILShN8PezJz-cdfzrA",
+    "topic": "ADHD medication and cognitive effects",
+    "category": "self_improvement",
+    "p": 0.7
+  },
+  {
+    "url": "https://nicholasdecker.substack.com/p/risk-aversion-does-not-have-a-great",
+    "topic": "Behavioral economics and risk aversion",
+    "category": "rationality",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.reddit.com/r/linux_gaming/comments/1gnz7c0/best_kernel_for_performance/",
+    "topic": "Linux kernel performance",
+    "category": "hobbies",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.leswrong.com/posts/R2nQzjduu2mNogCQM/book-review-open-borders",
+    "topic": "Open borders and economics",
+    "category": "rationality",
+    "p": 0.8
+  },
+  {
+    "url": "https://arxiv.org/abs/2407.21783",
+    "topic": "Machine learning research",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://moodle.helsinki.fi/pluginfile.php/6241364/mod_resource/content/1/il-kertaus-2025.pdf",
+    "topic": "University course materials",
+    "category": "university_courses",
+    "p": 0.9
+  },
+  {
+    "url": "https://careers.wolt.com/en/404",
+    "topic": "Job opportunities",
+    "category": "job_searches",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=10.03.2025+sivottuja+tabej%C3%A4",
+    "topic": "Search query - cleaning tasks",
+    "category": "hobbies",
+    "p": 0.4
+  },
+  {
+    "url": "https://x.com/arithmoquine/status/1895272276385505768?t=hTVXmtUnrOj8zJQlSr5iTw&s=35",
+    "topic": "Twitter post - likely related to rationality or AI",
+    "category": "rationality",
+    "p": 0.6
+  }
+]
+```
+
+```json
+[
+  "economics"
+]
+``````json
+[
+  {
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1fs5cl2/project_knowledge_context_size_limit/",
+    "topic": "Project Knowledge Context Size Limit",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://x.com/arithmoquine/status/1892447045958475814",
+    "topic": "AI Model Performance",
+    "category": "artificial_intelligence",
+    "p": 0.85
+  },
+  {
+    "url": "https://www.convergenceanalysis.org/threshold-2030/comprehensive-summary",
+    "topic": "Existential Risk Mitigation",
+    "category": "effective_altruism",
+    "p": 0.90
+  },
+  {
+    "url": "https://www.metaculus.com/notebooks/35291/q4-ai-benchmarking-results/",
+    "topic": "AI Benchmarking",
+    "category": "artificial_intelligence",
+    "p": 0.92
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1j72gzd/what_are_some_of_the_highestquality_llmskeptics/mgtkdb5/",
+    "topic": "LLM Skepticism",
+    "category": "artificial_intelligence",
+    "p": 0.88
+  },
+  {
+    "url": "https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should",
+    "topic": "UV (Unstructured Video) Analysis",
+    "category": "hobbie",
+    "p": 0.65
+  },
+  {
+    "url": "https://simonwillison.net/2024/Dec/19/one-shot-python-tools/",
+    "topic": "Python Tools",
+    "category": "hobbie",
+    "p": 0.75
+  },
+  {
+    "url": "https://www.google.com/search?q=kurssi+slack+join",
+    "topic": "Slack Integration",
+    "category": "hobbie",
+    "p": 0.5
+  },
+  {
+    "url": "https://docs.google.com/spreadsheets/d/1osUXVnf2sL1gkutE_tWfavCv_twWe-0zaH0eZa8MJ34/edit?gid=0#gid=0",
+    "topic": "Spreadsheet Data",
+    "category": "hobbie",
+    "p": 0.4
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQZTVvwWjpfFtqrhXxbvwjPpMQX",
+    "topic": "Email Inbox",
+    "category": "hobbie",
+    "p": 0.2
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://mail.google.com/mail/u/0/?ik=6aae709625&view=om&permmsgid=msg-f:1825442323749475792",
+    "topic": "email",
+    "category": "job_searches",
+    "p": 0.3
+  },
+  {
+    "url": "https://runescape.wiki/w/Talk:Supreme_overload_potion?diff=36670964&oldid=prev&marakasread=1821605&marakasreadwiki=en_rswiki",
+    "topic": "runescape",
+    "category": "hobbies",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.suomenpankki.fi/fi/tilastot/tilastotiedotteet/rahalaitosten-tase/2024/yrityslainoja-nostettiin-niukasti-maalikuussa-2024/",
+    "topic": "business loans",
+    "category": "scientific_research",
+    "p": 0.4
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=kiinteist%C3%B6alan+yrityslainat",
+    "topic": "business loans",
+    "category": "scientific_research",
+    "p": 0.4
+  },
+  {
+    "url": "https://www.google.com/search?q=does+integrability+imply+continuity&ie=UTF-8&oe=UTF-8&hl=en-fi&client=safari",
+    "topic": "calculus",
+    "category": "university_courses",
+    "p": 0.6
+  },
+  {
+    "url": "https://x.com/bryan_johnson/status/1898062902323810650",
+    "topic": "twitter post",
+    "category": "artificial_intelligence",
+    "p": 0.2
+  },
+  {
+    "url": "https://studies.helsinki.fi/kurssit/toteutus/hy-opt-cur-2425-ba75e8fb-1800-4058-ae3d-f794aeab59eb",
+    "topic": "university course",
+    "category": "university_courses",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.google.com/search?q=soldier+mindset&ie=UTF-8&oe=UTF-8&hl=en-fi&client=safari#vhid=vkKkOPLZsxZatM&vssid=_rOLOZ9bFM9SFwPAPsILn-Ag_51",
+    "topic": "soldier mindset",
+    "category": "self_improvement",
+    "p": 0.7
+  },
+  {
+    "url": "https://arxiv.org/abs/2502.17424",
+    "topic": "machine learning",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://moodle.helsinki.fi/grade/report/user/index.php?id=69933",
+    "topic": "grades",
+    "category": "university_courses",
+    "p": 0.9
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://calendar.google.com/calendar/u/0/r/week",
+    "topic": "calendar",
+    "category": "job_searches",
+    "p": 0.3
+  },
+  {
+    "url": "https://outlook.office.com/mail/inbox/id/AAQkAGZjMTAxMzA1LTVlMjktNDlkNC1hNjcyLTYwNzYwN2Y5OGVmNQAQAA96TrZLxLZEuNA5a5id5pU%3D",
+    "topic": "email",
+    "category": "job_searches",
+    "p": 0.3
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQZTgQGPJJcmfXJHnrSgWcWPvzl",
+    "topic": "email",
+    "category": "job_searches",
+    "p": 0.3
+  },
+  {
+    "url": "https://github.com/ohjelmistotekniikka-hy/ohjelmistotekniikka-hy.github.io/blob/master/ohjaajan-ohje.md",
+    "topic": "software engineering guide",
+    "category": "university_courses",
+    "p": 0.7
+  },
+  {
+    "url": "https://ohjelmistotekniikka-hy.github.io/luennot/2025-kevat/aloitusluentok25.pdf",
+    "topic": "software engineering lecture",
+    "category": "university_courses",
+    "p": 0.9
+  },
+  {
+    "url": "https://ohjelmistotekniikka-hy.github.io/harjoitustyo",
+    "topic": "software engineering project",
+    "category": "university_courses",
+    "p": 0.8
+  },
+  {
+    "url": "https://study.cs.helsinki.fi/labtool/",
+    "topic": "software engineering lab",
+    "category": "university_courses",
+    "p": 0.9
+  },
+  {
+    "url": "https://x.com/littmath/status/1898461323391815820",
+    "topic": "mathematics",
+    "category": "rationality",
+    "p": 0.5
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=diffusion+llm",
+    "topic": "LLM diffusion",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://chatgpt.com/share/67d015ba-857c-8008-9ff3-b85d58e438c9",
+    "topic": "ChatGPT share",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://www.google.com/search?q=integr+uusinta&ie=UTF-8&oe=UTF-8&hl=en-fi&client=safari",
+    "topic": "integr uusinta",
+    "category": "self_improvement",
+    "p": 0.3
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/4171027472",
+    "topic": "Job Posting",
+    "category": "job_searches",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/4160374287",
+    "topic": "Job Posting",
+    "category": "job_searches",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.linkedin.com/jobs/view/4169737065",
+    "topic": "Job Posting",
+    "category": "job_searches",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.tensorzero.com/",
+    "topic": "Tensor Zero",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=%C3%A4%C3%A4neskynnys",
+    "topic": "Ääniskynys",
+    "category": "self_improvement",
+    "p": 0.4
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=%C3%A4%C3%A4nesaudiogrammi+hinta",
+    "topic": "Ääniskynys Audiogrammi Hinta",
+    "category": "self_improvement",
+    "p": 0.4
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=kohonnut+%C3%A4%C3%A4neskynnys",
+    "topic": "Kohonnut Ääniskynys",
+    "category": "self_improvement",
+    "p": 0.4
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=hearing+test+at+home",
+    "topic": "Hearing Test at Home",
+    "category": "self_improvement",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=%C3%A4%C3%A4neskynnys+mittaus",
+    "topic": "Ääniskynys Mittaus",
+    "category": "self_improvement",
+    "p": 0.6
+  }
+]
+```
+
+```json
+[
+  "medical_tests"
+]
+``````json
+[
+  {
+    "url": "https://chatgpt.com/c/67d16a5f-28bc-8002-ab05-2d4c7147ae0c",
+    "topic": "Conversation",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://moodle.helsinki.fi/course/section.php?id=866356",
+    "topic": "Course Materials",
+    "category": "university_courses",
+    "p": 0.98
+  },
+  {
+    "url": "https://moodle.helsinki.fi/pluginfile.php/6241467/mod_resource/content/11/sarjat_2025_tehtavat.pdf",
+    "topic": "Problem Set",
+    "category": "university_courses",
+    "p": 0.99
+  },
+  {
+    "url": "https://www.wolframalpha.com/input?i=%7C%282x-1%29%2F%283x%2B1%29%7C%3C1",
+    "topic": "Mathematical Expression",
+    "category": "scientific_research",
+    "p": 0.85
+  },
+  {
+    "url": "https://liamrosen.com/2022/11/15/too-much-of-a-good-thing-what-mania-feels-like/",
+    "topic": "Mental Health",
+    "category": "self_improvement",
+    "p": 0.75
+  },
+  {
+    "url": "https://www.google.com/search?q=oscillating+series",
+    "topic": "Mathematical Series",
+    "category": "scientific_research",
+    "p": 0.90
+  },
+  {
+    "url": "https://www.google.com/search?q=blogi-idea%3A+ilmastonmuitos%2C+kapitalismi%2C+inenstiivit%2C+worst+case&ie=UTF-8&oe=UTF-8&hl=en-fi&client=safari",
+    "topic": "Blog Ideas",
+    "category": "hobies",
+    "p": 0.70
+  },
+  {
+    "url": "https://arxiv.org/html/2404.11446v1",
+    "topic": "Research Paper",
+    "category": "scientific_research",
+    "p": 0.95
+  },
+  {
+    "url": "https://careers.epoch.ai/en/postings/99058315-327d-4185-88f5-6acbc96f8ae8",
+    "topic": "Job Posting",
+    "category": "job_searches",
+    "p": 0.98
+  },
+  {
+    "url": "https://docs.google.com/document/d/1Qsy6gDzfb--CnJRWb-VCGWZOjz768ogrtmsL3Sd7y_M/edit?tab=t.0#heading=h.hrnydqq56h8v",
+    "topic": "Document",
+    "category": "self_improvement",
+    "p": 0.65
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://www.spencergreenberg.com/2025/02/why-cant-society-agree-on-who-is-a-man-who-is-a-woman-and-who-is-neither-an-empirical-and-philosophical-investigatio-into-the-metaphysics-of-gender/",
+    "topic": "gender",
+    "category": "rationality",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.guidedtrack.com/programs",
+    "topic": "online learning",
+    "category": "university_courses",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.guidedtrack.com/programs/to8e8we/users/sign_in?user[email]=kerk.pelt%40gmail.com&return_to=https%3A%2F%2Fprograms.clearerthinking.org%2Fcognitive-test.html%3Ftoken%3D-Nq8gE6twDNAB8SM4qzy",
+    "topic": "online learning",
+    "category": "university_courses",
+    "p": 0.9
+  },
+  {
+    "url": "https://programs.clearerthinking.org/cognitive-test.html",
+    "topic": "cognitive testing",
+    "category": "self_improvement",
+    "p": 0.8
+  },
+  {
+    "url": "https://arxiv.org/abs/2311.16711",
+    "topic": "language models",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://buttsmithy.com/archives/comic/p-1280",
+    "topic": "humor",
+    "category": "hobbies",
+    "p": 0.7
+  },
+  {
+    "url": "https://existentialcomics.com/comic/593",
+    "topic": "philosophy",
+    "category": "rationality",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.theguardian.com/books/2024/mar/13/whos-afrraid-of-gender-by-judith-butler-review-the-gender-theorist-goes-mainstream",
+    "topic": "gender theory",
+    "category": "rationality",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.richardhanania.com/p/doge-as-a-control-mechanism-of-the",
+    "topic": "cryptocurrency",
+    "category": "rationality",
+    "p": 0.6
+  },
+  {
+    "url": "https://blog.google/technology/developers/gemma-3/",
+    "topic": "language models",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  }
+]
+```
+
+```json
+[
+  "cryptocurrency_economics"
+]
+``````json
+[
+  {
+    "url": "https://moodle.helsinki.fi/",
+    "topic": "University Courses",
+    "category": "university_courses",
+    "p": 0.95
+  },
+  {
+    "url": "https://login.helsinki.fi/idp/profile/Logout?execution=e1s1",
+    "topic": "University Courses",
+    "category": "university_courses",
+    "p": 0.85
+  },
+  {
+    "url": "https://moodle.helsinki.fi/course/view.php?id=70759",
+    "topic": "University Courses",
+    "category": "university_courses",
+    "p": 0.98
+  },
+  {
+    "url": "https://moodle.helsinki.fi/pluginfile.php/6273421/mod_resource/content/1/course-arrangements-2025.pdf",
+    "topic": "University Courses",
+    "category": "university_courses",
+    "p": 0.95
+  },
+  {
+    "url": "https://moodle.helsinki.fi/pluginfile.php/6273422/mod_resource/content/1/lecture1.pdf",
+    "topic": "University Courses",
+    "category": "university_courses",
+    "p": 0.95
+  },
+  {
+    "url": "https://studies.helsinki.fi/kurssit/toteutus/hy-opt-cur-2425-d84cca49-be04-4285-9d2d-d9837f90b539",
+    "topic": "University Courses",
+    "category": "university_courses",
+    "p": 0.95
+  },
+  {
+    "url": "file:///Users/xylix/Downloads/John%20L.%20Hennessy,%20David%20A.%20Patterson%20-%20Computer%20Architecture_%20A%20Quantitative%20Approach%20(The%20Morgan%20Kaufmann%20Series%20in%20Computer%20Architecture%20and%20Design)-Morgan%20Kaufmann%20(2017).pdf",
+    "topic": "Computer Architecture",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://chatgpt.com/c/67d40812-eafc-8002-895f-8a6ec484e0e7",
+    "topic": "AI Chatbot",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#search/eeva+reunanen/FMfcgzQZTgSXJzvpXqnrjwhrnnCBrZMM",
+    "topic": "Email Communication",
+    "category": "job_searches",
+    "p": 0.3
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#search/unisign/FMfcgzQZTgThTwpRRvSQMTCXrsLqblKq",
+    "topic": "Email Communication",
+    "category": "job_searches",
+    "p": 0.3
+  }
+]
+```
+
+```json
+[
+  "computer_science"
+]
+``````json
+[
+  {
+    "url": "file:///Users/xylix/Downloads/Ecker_et-al_2010_JEPLMC.pdf",
+    "topic": "Ecker et al. 2010 JEPLMC",
+    "category": "self_improvement",
+    "p": 0.4
+  },
+  {
+    "url": "https://chipsandcheese.com/",
+    "topic": "Chips and Cheese",
+    "category": "artificial_intelligence",
+    "p": 0.2
+  },
+  {
+    "url": "https://chipsandcheese.com/p/amds-past-and-future-cpus",
+    "topic": "AMD CPUs",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://chipsandcheese.com/p/a-brief-look-at-apples-m2-pro-igpu",
+    "topic": "Apple M2 Pro GPU",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://chipsandcheese.com/p/igpu-cache-setups-compared-including-m1",
+    "topic": "GPU Cache Comparisons",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Apple_M1",
+    "topic": "Apple M1 Chip",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://stackoverflow.com/questions/1043034/what-does-void-mean-in-c-c-and-c",
+    "topic": "void in C/C++",
+    "category": "university_courses",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=scheme+standard+library+",
+    "topic": "Scheme Standard Library",
+    "category": "university_courses",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.sicpdistilled.com/section/1.2.1/",
+    "topic": "Structure and Interpretation of Computer Programs",
+    "category": "university_courses",
+    "p": 0.9
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Data-oriented_design",
+    "topic": "Data-oriented design",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  }
+]
+```
+
+```json
+[
+  "university_courses"
+]
+``````json
+[
+  {
+    "url": "https://www.reddit.com/r/programming/comments/tj6bfe/the_unreasonable_effectiveness_of_dataoriented/",
+    "topic": "Data-Oriented Design",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.reddit.com/r/rust/comments/q3iokp/linked_lists_and_rust/",
+    "topic": "Data Structures in Rust",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://rust-unofficial.github.io/too-many-lists/index.html#an-obligatory-public-service-announcement",
+    "topic": "Rust Programming Best Practices",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://substack.com/@selfishlyaltrusitic",
+    "topic": "Effective Altruism and Self-Interest",
+    "category": "effective_althruism",
+    "p": 0.9
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQZTgThfZsHPDKKwwRMxwJfkVjv",
+    "topic": "Personal Email",
+    "category": "self_improvement",
+    "p": 0.2
+  },
+  {
+    "url": "https://unisign.helsinki.fi/sign/#/request/130000000000d312",
+    "topic": "University Signature Request",
+    "category": "university_courses",
+    "p": 0.8
+  },
+  {
+    "url": "https://heppa.tko-aly.fi/canditates",
+    "topic": "Candidate List",
+    "category": "self_improvement",
+    "p": 0.3
+  },
+  {
+    "url": "https://www.hs.fi/maailma/art-2000011085016.html",
+    "topic": "World News Article",
+    "category": "self_improvement",
+    "p": 0.2
+  },
+  {
+    "url": "https://www.hs.fi/kuuntele/audio-2000011024913.html",
+    "topic": "Finnish News Audio",
+    "category": "self_improvement",
+    "p": 0.2
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=marco+rubio+elon+musk+argument",
+    "topic": "Political Debate Search",
+    "category": "self_improvement",
+    "p": 0.2
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://www.politico.com/news/magazine/2025/03/13/rubio-musk-power-play-00227065",
+    "topic": "politics",
+    "category": "rationality",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.linkedin.com/feed/",
+    "topic": "job_searches",
+    "category": "job_searches",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.linkedin.com/in/aikarjal/",
+    "topic": "job_searches",
+    "category": "job_searches",
+    "p": 0.9
+  },
+  {
+    "url": "https://digitalworkforce.com/",
+    "topic": "job_searches",
+    "category": "job_searches",
+    "p": 0.7
+  },
+  {
+    "url": "https://chatgpt.com/",
+    "topic": "artificial_intelligence",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=reinforcement+learning+magic+the+gathering&btnG=",
+    "topic": "artificial_intelligence",
+    "category": "artificial_intelligence",
+    "p": 0.85
+  },
+  {
+    "url": "https://github.com/sogom/pokemon-showdown",
+    "topic": "hobbie",
+    "category": "hobbie",
+    "p": 0.75
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=rhvj7CmTRkg",
+    "topic": "hobbie",
+    "category": "hobbie",
+    "p": 0.6
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Stockfish_(chess)",
+    "topic": "artificial_intelligence",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=some+influenzer+holding+yhti%C3%B6",
+    "topic": "relationships",
+    "category": "relationships",
+    "p": 0.5
+  }
+]
+```
+
+```json
+[
+  "politics",
+  "relationships"
+]
+``````json
+[
+  {
+    "url": "https://www.mtvuutiset.fi/artikkeli/finnwatch-somevaikuttajat-saavat-merkittavia-veroetuja-yritysjarjestelyilla/8771844",
+    "topic": "Finnwatch report on influencer tax benefits",
+    "category": "self_improvement",
+    "p": 0.3
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1j9v3lf/gemma_3_insanely_good/",
+    "topic": "Discussion of Gemma 3 model",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://olllama.com/library/gemma3",
+    "topic": "Gemma 3 model library",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://github.com/fergusq/retki/blob/master/dokumentaatio/RETKI.rst#alkupuhe",
+    "topic": "RETKI documentation - initial speech",
+    "category": "hobies",
+    "p": 0.6
+  },
+  {
+    "url": "https://julkaisut.valtioneuvosto.fi/handle/10024/165829",
+    "topic": "Government publication",
+    "category": "self_improvement",
+    "p": 0.2
+  },
+  {
+    "url": "https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/165777/LVM_2024_9.pdf?sequence=1&isAllowed=y",
+    "topic": "Government publication PDF",
+    "category": "self_improvement",
+    "p": 0.2
+  },
+  {
+    "url": "https://www.google.com/search?q=teko%C3%A4ly+lakiasioihin",
+    "topic": "Google search for AI in legal matters",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.hs.fi/visio/art-2000010980796.html",
+    "topic": "Article on future trends",
+    "category": "self_improvement",
+    "p": 0.4
+  },
+  {
+    "url": "https://www.google.com/search?q=finbert",
+    "topic": "Google search for FinBERT",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.finlex.fi/fi/avoin-data/integraation-pikaopas",
+    "topic": "Quick guide to data integration",
+    "category": "job_searches",
+    "p": 0.3
+  }
+]
+```
+
+```json
+[
+  "government_publications"
+]
+``````json
+[
+  {
+    "url": "https://opendata.finlex.fi/swagger-ui/index.html",
+    "topic": "Data and APIs",
+    "category": "scientific_research",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.imdb.com/title/tt14721314/?ref_=nv_sr_srsg_0_tt_5_nm_0_in_0_q_alephia%252020",
+    "topic": "Film",
+    "category": "hobbies",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.imdb.com/name/nm0001379/?ref_=tt_ov_dr_1",
+    "topic": "People",
+    "category": "hobbies",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.google.com/search?q=rag+systems+github",
+    "topic": "Retrieval Augmented Generation",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://github.com/NirDiamant/RAG_Techniques?tab=readme-ov-file",
+    "topic": "Retrieval Augmented Generation",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "http://localhost:8080/workspace/knowledge",
+    "topic": "Knowledge Management",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://python.langchain.com/docs/introduction/",
+    "topic": "LangChain",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1bs05x7/is_langchain_overhypped/",
+    "topic": "LangChain Discussion",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=olllama+is+bad",
+    "topic": "Ollama",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=40693391",
+    "topic": "General Discussion",
+    "category": "rationality",
+    "p": 0.6
+  }
+]
+```
+
+```json
+[
+  "Data and APIs"
+]
+``````json
+[
+  {
+    "url": "https://docs.openwebui.com/features/rag",
+    "topic": "Retrieval Augmented Generation",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=websearchrag",
+    "topic": "Retrieval Augmented Generation",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://arxiv.org/abs/2408.07611",
+    "topic": "Scientific Paper",
+    "category": "scientific_research",
+    "p": 0.95
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQZTgThnnSQnSLlQmlQjRsvlhhM",
+    "topic": "Email Inbox",
+    "category": "self_improvement",
+    "p": 0.2
+  },
+  {
+    "url": "https://finlex.fi/fi/haku?category=LEGISLATION&type=BASIC&search=mehil%C3%A4inen&limit=20&sort=relevance&page=1",
+    "topic": "Finnish Legislation",
+    "category": "self_improvement",
+    "p": 0.1
+  },
+  {
+    "url": "https://www.smbc-comics.com/comic/fish-2",
+    "topic": "Comic",
+    "category": "hobbies",
+    "p": 0.9
+  },
+  {
+    "url": "https://forum.effectivealtruism.org/posts/CFv82Xt2kuvvjNvP8/vacuum-decay-expert-survey-results-1",
+    "topic": "Vacuum Decay Survey",
+    "category": "effective_altruism",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=simd+programming",
+    "topic": "SIMD Programming",
+    "category": "scientific_research",
+    "p": 0.8
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/CUDA",
+    "topic": "CUDA Programming",
+    "category": "scientific_research",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.google.com/search?q=emergent+misalignment&ie=UTF-8&oe=UTF-8&hl=en-fi&client=safari",
+    "topic": "Emergent Misalignment",
+    "category": "artificial_intelligence",
+    "p": 0.85
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=better+language+for+talking+with+llms&btnG=",
+    "topic": "LLMs",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.yanisvaroufakis.eu/2025/02/21/donald-trumps-economic-masterplan-unherd/",
+    "topic": "Economics",
+    "category": "rationality",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1jbiw5l/powerful_ai_is_coming_were_not_ready/mhugfjj/?share_id=ZQYxBoGR5m4zSb1Mq8l5M&context=3",
+    "topic": "AI Risks",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/1j9j061/elon_musk_may_be_transitioning_to_bipolar_type_i/?share_id=oXv7-P_DfjXrbF3sBJj-F",
+    "topic": "Mental Health",
+    "category": "rationality",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.reddit.com/r/totalwarhammer/comments/1hvzgl2/opinons_on_deepwar_ai_im_interested_in_it_as/m5xbn3m/?share_id=0tv_MDXdWoNikr-f6arSq&context=3",
+    "topic": "AI in Games",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.google.com/search?q=alignment+faking+in+llms",
+    "topic": "LLMs",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://x.com/ESYudkowsky/status/1900247885142434220",
+    "topic": "AI Safety",
+    "category": "artificial_intelligence",
+    "p": 0.85
+  },
+  {
+    "url": "https://fi.wikipedia.org/wiki/Harmoninen_sarja",
+    "topic": "Mathematics",
+    "category": "rationality",
+    "p": 0.75
+  },
+  {
+    "url": "https://math.stackexchange.com/questions/4845902/can-second-derivative-indicate-convergence-of-infinite-series",
+    "topic": "Mathematics",
+    "category": "rationality",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=can+you+use+derivative+to+check+for+series+divergence",
+    "topic": "Mathematics",
+    "category": "rationality",
+    "p": 0.7
+  }
+]
+```
+
+```json
+[
+  "AI Safety",
+  "AI in Games"
+]
+``````json
+[
+  {
+    "url": "https://www.reddit.com/r/askmath/comments/tyb356/can_integral_test_used_to_determine_divergence_of/",
+    "topic": "mathematics",
+    "category": "university_courses",
+    "p": 0.8
+  },
+  {
+    "url": "https://company.f-secure.com/en/careers#latest-jobs",
+    "topic": "employment",
+    "category": "job_searches",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.overleaf.com/learn/latex/Integrals%2C_sums_and_limits",
+    "topic": "mathematics",
+    "category": "university_courses",
+    "p": 0.85
+  },
+  {
+    "url": "https://www.hs.fi/elama/art-2000011091537.html",
+    "topic": "lifestyle",
+    "category": "self_improvement",
+    "p": 0.6
+  },
+  {
+    "url": "https://www.hs.fi/maailma/art-2000011082246.html",
+    "topic": "world news",
+    "category": "rationality",
+    "p": 0.3
+  },
+  {
+    "url": "https://glowfic.com/",
+    "topic": "fiction",
+    "category": "hobbies",
+    "p": 0.7
+  },
+  {
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScEppRZDESXB5EqtHPEZjxXwcErM_C4hlMlvH9jL28QpLN8Eg/viewform",
+    "topic": "data collection",
+    "category": "scientific_research",
+    "p": 0.4
+  },
+  {
+    "url": "https://drive.google.com/drive/folders/1IhWDye8mYuxbxrNeIQpjqE_Ozx8NaTEO",
+    "topic": "data storage",
+    "category": "scientific_research",
+    "p": 0.5
+  },
+  {
+    "url": "https://www.wired.com/story/undergraduate-upennds-a-40-year-old-data-science-conjecture/",
+    "topic": "data science",
+    "category": "artificial_intelligence",
+    "p": 0.75
+  },
+  {
+    "url": "https://arxiv.org/abs/2501.02305",
+    "topic": "physics",
+    "category": "scientific_research",
+    "p": 0.9
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://www.google.com/search?q=using+halli+to+bypass+rlhf",
+    "topic": "RLHF bypass",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://milesbrundage.substack.com/p/some-very-important-things-that-i",
+    "topic": "AI safety and alignment",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://www.reddit.com/r/typescript/comments/1j8s467/a_10x_faster_typescript/mh7ni9g/",
+    "topic": "TypeScript performance",
+    "category": "hobbies",
+    "p": 0.7
+  },
+  {
+    "url": "https://www.leswrong.com/posts/czybHfMHvdjiEdQ86/less-wrong-s-political-bias",
+    "topic": "Political bias analysis",
+    "category": "rationality",
+    "p": 0.85
+  },
+  {
+    "url": "https://www.google.com/search?q=trump+removal+of+ai+safety",
+    "topic": "AI safety policy",
+    "category": "artificial_intelligence",
+    "p": 0.75
+  },
+  {
+    "url": "https://bsky.app/profile/steveklabnik.com/post/3lk4ke7gbds2g",
+    "topic": "Programming language design",
+    "category": "hobbies",
+    "p": 0.6
+  },
+  {
+    "url": "https://x.com/teortaxesTex/status/1901691453346127945",
+    "topic": "Tax policy",
+    "category": "rationality",
+    "p": 0.6
+  },
+  {
+    "url": "https://x.com/apolloaievals/status/1901713042578325891",
+    "topic": "AI evaluation",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://mail.google.com/mail/u/0/#search/stubb/FMfcgzQZTgThnnSQnSLlQmlQjRsvlhhM",
+    "topic": "Email correspondence",
+    "category": "rationality",
+    "p": 0.3
+  },
+  {
+    "url": "https://github.com/xylix/logseq-database",
+    "topic": "Logseq database",
+    "category": "hobbies",
+    "p": 0.9
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://moodle.helsinki.fi/mod/resource/view.php?id=3919983",
+    "topic": "University Course Material",
+    "category": "university_courses",
+    "p": 0.95
+  },
+  {
+    "url": "https://moodle.helsinki.fi/pluginfile.php/6174476/mod_resource/content/14/Integraalilaskenta_lh_4_pisteytysohje.pdf",
+    "topic": "University Course Material",
+    "category": "university_courses",
+    "p": 0.95
+  },
+  {
+    "url": "https://moodle.helsinki.fi/pluginfile.php/6174481/mod_resource/content/13/Integraalilaskenta_lh_5_pisteysohje.pdf",
+    "topic": "University Course Material",
+    "category": "university_courses",
+    "p": 0.95
+  },
+  {
+    "url": "https://fi.wikipedia.org/wiki/Sijoitusmenetelm%C3%A4",
+    "topic": "Mathematical Method",
+    "category": "university_courses",
+    "p": 0.85
+  },
+  {
+    "url": "https://moodle.helsinki.fi/course/view.php?id=70638",
+    "topic": "University Course Page",
+    "category": "university_courses",
+    "p": 0.95
+  },
+  {
+    "url": "https://tim.jyu.fi/view/kurssit/matematiikka/matikkapakki/integraali#-m%C3%A4%C3%A4r%C3%A4tyn-integraalin-laskus%C3%A4%C3%A4nt%C3%B6j%C3%A4",
+    "topic": "Calculus Tutorial",
+    "category": "university_courses",
+    "p": 0.90
+  },
+  {
+    "url": "https://www.wolframalpha.com/input?i=9%2F10s*10%5E%28-k%29+*+9%2F10t+*+10%5E%28-k%29",
+    "topic": "Mathematical Calculation",
+    "category": "university_courses",
+    "p": 0.75
+  },
+  {
+    "url": "https://www.google.com/search?num=10&client=firefox-b-d&sca_esv=3b736228b17ed96f&sxsrf=AHTn8zpB8-d8W3drMLm9uOoWTC1l5A1kog:1742300520930&q=geometric+sum+formula&udm=2",
+    "topic": "Mathematical Formula Search",
+    "category": "university_courses",
+    "p": 0.80
+  },
+  {
+    "url": "https://blogs.helsinki.fi/erilaiset/",
+    "topic": "Blog Aggregator",
+    "category": "hobies",
+    "p": 0.50
+  },
+  {
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1gze5b9/how_do_you_effectively_manage_context_in_claudes/",
+    "topic": "AI Context Management",
+    "category": "artificial_intelligence",
+    "p": 0.90
+  }
+]
+```
+
+```json
+[
+]
+``````json
+[
+  {
+    "url": "https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/long-context-tips",
+    "topic": "prompt engineering",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1fspn1s/convert_any_github_repo_to_a_single_text_file/",
+    "topic": "github repo to text file",
+    "category": "artificial_intelligence",
+    "p": 0.85
+  },
+  {
+    "url": "https://repo2txt.simplebasedomain.com/local.html",
+    "topic": "convert repo to text",
+    "category": "artificial_intelligence",
+    "p": 0.80
+  },
+  {
+    "url": "https://stackoverflow.com/questions/2150614/concatenating-multiple-text-files-into-a-single-file-in-bash",
+    "topic": "file concatenation",
+    "category": "artificial_intelligence",
+    "p": 0.75
+  },
+  {
+    "url": "https://stackoverflow.com/questions/2016894/how-can-i-split-a-large-text-file-into-smaller-files-with-an-equal-number-of-lin",
+    "topic": "file splitting",
+    "category": "artificial_intelligence",
+    "p": 0.70
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=anthropic+contextual+retrieval",
+    "topic": "anthropic contextual retrieval",
+    "category": "artificial_intelligence",
+    "p": 0.80
+  },
+  {
+    "url": "https://claude.ai/chat/28e016a8-b26c-4e2c-a916-46f088addb01",
+    "topic": "chat with claude",
+    "category": "artificial_intelligence",
+    "p": 0.90
+  },
+  {
+    "url": "https://claude.ai/chat/8fbe8265-6777-4969-82ce-0d71d3ceed19",
+    "topic": "chat with claude",
+    "category": "artificial_intelligence",
+    "p": 0.90
+  },
+  {
+    "url": "https://console.anthropic.com/workbench/9bb94ca7-affd-40e8-96e2-81bf4bd9318d",
+    "topic": "anthropic workbench",
+    "category": "artificial_intelligence",
+    "p": 0.90
+  },
+  {
+    "url": "https://docs.anthropic.com/en/docs/build-with-claude/context-windows?q=upload+context",
+    "topic": "claude context windows",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  }
+]
+```
+
+```json
+[
+  "data_processing"
+]
+``````json
+[
+  {
+    "url": "https://github.com/marqo-ai/marqo?tab=readme-ov-file",
+    "topic": "marqo",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.marqo.ai/blog/augmenting-gpt-with-marqo-for-q-and-a",
+    "topic": "marqo",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://docs.marqo.ai/latest/home/introduction/",
+    "topic": "marqo",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://docs.marqo.ai/latest/reference/#:~:text=in%20this%20Reference.-,API%20Reference%20(Open%20Source%20%26%20Cloud),-This%20is%20the",
+    "topic": "marqo",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.google.com/search?q=marqo+with+openwebui",
+    "topic": "marqo, openwebui",
+    "category": "artificial_intelligence",
+    "p": 0.85
+  },
+  {
+    "url": "https://www.reddit.com/r/ChatGPTCoding/comments/14112ol/open_source_vector_databases/",
+    "topic": "vector databases, open source",
+    "category": "artificial_intelligence",
+    "p": 0.90
+  },
+  {
+    "url": "https://github.com/AayushKucheria/ReadingSpace",
+    "topic": "reading space",
+    "category": "hobbies",
+    "p": 0.70
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/comments/xk31n8/p_my_cofounder_and_i_quit_our_engineering_jobs_at/",
+    "topic": "machine learning, startup",
+    "category": "artificial_intelligence",
+    "p": 0.80
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=openwebui+compatible+vector+databases",
+    "topic": "openwebui, vector databases",
+    "category": "artificial_intelligence",
+    "p": 0.85
+  },
+  {
+    "url": "https://docs.openwebui.com/features/plugin/functions/",
+    "topic": "openwebui",
+    "category": "artificial_intelligence",
+    "p": 0.90
+  }
+]
+```
+
+```json
+[
+  "vector_databases"
+]
+``````json
+[
+  {
+    "url": "https://github.com/open-webui/pipelines/blob/main/examples/pipelines/rag/llamaindex_pipeline.py",
+    "topic": "Retrieval Augmented Generation (RAG) pipeline example",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://docs.openwebui.com/features/rag/",
+    "topic": "Retrieval Augmented Generation (RAG) feature documentation",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=marqo+use+olllama+model+for+embeddings",
+    "topic": "Search results about using Marqo and Ollama for embeddings",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://python.langchain.com/docs/integrations/text_embedding/olllama/",
+    "topic": "Langchain integration with Ollama for text embeddings",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://docs.marqo.ai/latest/models/marqo/list-of-models/#text",
+    "topic": "List of text models supported by Marqo",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.marqo.ai/blog/benchmarking-models-for-multimodal-search",
+    "topic": "Benchmarking models for multimodal search",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
+    "topic": "Hugging Face model card for BAAI/bge-large-en-v1.5",
+    "category": "artificial_intelligence",
+    "p": 0.95
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/18j39qt/what_embedding_models_are_you_using_for_rag/",
+    "topic": "Reddit discussion about embedding models for RAG",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://www.google.com/search?client=firefox-b-d&q=hooke+theory+of+gravity",
+    "topic": "Search results about Hooke's theory of gravity",
+    "category": "scientific_research",
+    "p": 0.85
+  },
+  {
+    "url": "https://claude.ai/chat/7308a092-893c-4cfe-855a-a83587f46926",
+    "topic": "Claude AI chat session (content unknown)",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  }
+]
+```
+
+```json
+[
+  "machine_learning_tools"
+]
+``````json
+[
+  {
+    "url": "https://conda-forge.org/",
+    "topic": "software",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://github.com/Automattic/node-canvas",
+    "topic": "software",
+    "category": "artificial_intelligence",
+    "p": 0.5
+  },
+  {
+    "url": "https://www.linux.fi/wiki/Convert",
+    "topic": "software",
+    "category": "artificial_intelligence",
+    "p": 0.3
+  },
+  {
+    "url": "https://github.com/meilisearch/meilisearch",
+    "topic": "software",
+    "category": "artificial_intelligence",
+    "p": 0.7
+  },
+  {
+    "url": "https://github.com/marqo-ai/marqo",
+    "topic": "software",
+    "category": "artificial_intelligence",
+    "p": 0.8
+  },
+  {
+    "url": "https://github.com/ggml-org/llama.cpp/tree/master",
+    "topic": "software",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://github.com/ggml-org/llama.cpp/blob/master/grammars/README.md",
+    "topic": "software",
+    "category": "artificial_intelligence",
+    "p": 0.9
+  },
+  {
+    "url": "https://github.com/microsoft/typescript-go/discussions/411",
+    "topic": "software",
+    "category": "artificial_intelligence",
+    "p": 0.5
+  },
+  {
+    "url": "https://github.com/fish-shell/fish-shell/releases",
+    "topic": "software",
+    "category": "artificial_intelligence",
+    "p": 0.4
+  },
+  {
+    "url": "https://github.com/microsoft/wslg/issues/908",
+    "topic": "software",
+    "category": "artificial_intelligence",
+    "p": 0.3
+  }
+]
+```
+
+```json
+[]
+``````json
+[
+  {
+    "url": "https://github.com/microsoft/wslg",
+    "topic": "WSLg GitHub Repository",
+    "category": "artificial_intelligence",
+    "p": 0.6
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=40237872",
+    "topic": "Hacker News Discussion",
+    "category": "artificial_intelligence",
+    "p": 0.3
+  },
+  {
+    "url": "https://go.dev/doc/",
+    "topic": "Go Programming Language Documentation",
+    "category": "university_courses",
+    "p": 0.7
+  },
+  {
+    "url": "https://fi.wikipedia.org/wiki/Suppenemistestit",
+    "topic": "Finnish Wikipedia Article on Penetration Testing",
+    "category": "scientific_research",
+    "p": 0.5
+  },
+  {
+    "url": "https://www.pivotal-research.org/fellowship",
+    "topic": "Pivotal Research Fellowship",
+    "category": "effective_althruism",
+    "p": 0.7
+  },
+  {
+    "url": "https://superuser.com/questions/96739/is-there-a-method-to-export-the-urls-of-the-open-tabs-of-a-firefox-window",
+    "topic": "Superuser Question about Firefox Tab Export",
+    "category": "job_searches",
+    "p": 0.2
+  }
+]
+```
+
+```json
+[
+]
+```

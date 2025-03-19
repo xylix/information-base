@@ -1,0 +1,52 @@
+https://www.clearerthinking.org/post/a-guide-on-building-lasting-connections-how-to-make-and-keep-friends relationships
+https://www.reddit.com/r/mtgvorthos/comments/uhi1sv/a_garden_flesh/ hobbies
+https://magic.wizards.com/en/news/magic-story/garden-flesh-2022-05-03 hobbies
+https://mindingourway.com/self-compassion/ self_improvement
+https://loveuncommon.com/2017/09/28/self-consent/ relationships
+https://www.leswrong.com/posts/BfTW9jmDzujYkhjAb/loving-yourself-1#Nick_thinks_that_the_two_most_promising_avenues_are_solo_MDMA_trips_and_metta__lovingkindness__meditation_ self_improvement
+https://meaningness.substack.com/p/you-should-be-a-god-emperor artificial_intelligence
+
+[
+    "self_improvement",
+    "relationships",
+    "university_courses",
+    "scientific_research",
+    "artificial_intelligence",
+    "job_searches",
+    "hobbies",
+    "rationality",
+    "effective_altruism",
+    "gaming"
+]
+https://kajsotala.fi/2023/02/in-defense-of-chatbot-romance/ artificial_intelligence
+https://gwern.net/llm-writing artificial_intelligence
+https://www.reddit.com/r/slatestarcodex/comments/1gqn4jo/intuitive_selfmodels_blog_post_series/?share_id=fkXR3r4UbbkdsN-F9Mqby self_improvement
+https://www.leswrong.com/posts/cSXZpvqpa9vbGGLtG/thou-art-godshatter rationality
+about:newtab N/A
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4743080/ scientific_research
+https://ubiq-x.github.io/rspan/ artificial_intelligence
+https://ollij.fi/epi/kerran_luotin/ hobbies
+https://arxiv.org/pdf/2207.09238 scientific_research
+https://docs.google.com/document/u/0/d/1WFFggvKYTIr6CtcXDjLL7QtfYzaJXYzljcGAE4tkAnY/mobilebasic artificial_intelligence
+
+```json
+[
+  "N/A"
+]
+```https://www.clearerthinking.org/post/how-to-read-an-academic-paper-and-tell-whether-it-s-bullshit rationality
+https://www.astralcodexten.com/p/its-still-easier-to-imagine-the-end rationality
+https://www.astralcodexten.com/p/book-review-the-gervais-principle rationality
+https://www.ale-hop.org/en/sleeping-stuffed-fox-super-soft-9794309 hobbies
+https://drive.google.com/drive/u/0/folders/1llc19SD6VE0RxWcQwRR5Ynp1C47OniRe hobbies
+https://www.google.com/search?client=firefox-b-d&q=matlu+kes%C3%A4ty%C3%B6paikat+helsinki job_searches
+https://www.helsinki.fi/fi/tutustu-meihin/ura-ja-avoimet-tyopaikat/avoimet-tyopaikat job_searches
+https://helsinki.jobteaser.com/fi/job-offers/ba2db0e8-8d06-4289-8dec-d24cace94350-institute-of-science-and-technology-austria-ista-funded-fellowship-isternship-summer-program job_searches
+https://studies.helsinki.fi/ohjeet/uutiset/joulukuun-ajankohtaiset-urapalveluissa-ja-jobteaserissa-loppuvuoden-tapahhtumat-ja-vinkit-kesatyo-ja job_searches
+https://helsinki.jobteaser.com/fi/job-offers/e3d893cd-8512-4786-9211-7cae8b4c8f66-fortum-oyj-kesaharjoittelija-ydinvoima-it job_searches
+
+```json
+[
+  "rationality",
+  "job_searches"
+]
+```
