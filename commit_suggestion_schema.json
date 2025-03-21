@@ -1,17 +1,8 @@
 {
-  "type": "object",
-  "required": ["hash", "index", "descriptions"],
-  "properties": {
-    "hash": {
-      "type": "string"
-    },
-    "descriptions": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      },
-      "minItems": 5,
-      "maxItems": 5
-    }
-  }
+  "type": "array",
+  "items": {
+    "type": "string"
+  },
+  "minItems": 5,
+  "maxItems": 5
 }

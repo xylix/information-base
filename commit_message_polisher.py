@@ -7,7 +7,7 @@ from collections import namedtuple
 import csv
 import sys
 import pygit2
-from llama_cpp import Llama, LlamaGrammar
+from llama_cpp import CreateCompletionResponse, Llama, LlamaGrammar
 from json import loads
 
 # from autocommit.llm import generate_suggestions
@@ -15,12 +15,11 @@ from json import loads
 llm = Llama(
     model_path="/Users/xylix/Code/models/gemma-3-12b-it-Q8_0.gguf", 
     n_ctx=4096,
-    verbose=False,)
+    verbose=False,
+    n_gpu_layers=50)
 
-with open("./commit_suggestion_schema.json", "r") as f:
-    json_schema = f.read()
-# grammar = LlamaGrammar.from_json_schema(json_schema)
-# print(f"Loaded GRAMMAR: {str(grammar)}")
+grammar = LlamaGrammar.from_file("./commit_suggestion_schema.gbnf")
+print(f"Loaded GRAMMAR: {str(grammar)}")
 
 def generate_suggestions(commit: str, commit_hash: str) -> dict:
     base_prompt = """
@@ -30,17 +29,15 @@ def generate_suggestions(commit: str, commit_hash: str) -> dict:
     try to describe the important changes in the commit), order the list by what you think 
     would be the best commit message first. Only include the json in your response.
     
-    
     ------- 
     """
-    prompt = base_prompt + "\n" + commit + "\n-----\n" + '{"hash": { ' + str(commit_hash) + '}, descriptions: ['
-    response = llm.create_completion(prompt=prompt, max_tokens=128, temperature=0.8)
-
-    # Convert the markdown string to HTML
+    prompt = base_prompt + "\n" + commit + "\n-----\n" + '{"hash": { ' + str(commit_hash) + '}, descriptions: '
+    response: CreateCompletionResponse = llm.create_completion(prompt=prompt, max_tokens=128, temperature=0.8, stream=False, grammar=grammar)
     try:
-        json: dict = loads(str(response))
+        json: dict = loads(str(response["choices"][0]["text"]))
     except Exception as e:
-        print(f"response had invalid json: {response}")
+        print(f"json error: {e}")
+        print(f"response had invalid json: {response["choices"][0]["text"]}")
         print(f"error, the json should never be invalid")
         return {}
 
