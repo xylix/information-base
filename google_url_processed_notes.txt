@@ -1,0 +1,104 @@
+TODO/note: matlu kesätyöpaikat helsinki
+TODO/note: eafi lafi hetzner kularit
+TODO/note: pian relevantteja kouluasioita
+TODO/note: computing platforms
+TODO/note: traveling as autisti. tips
+TODO/note: toukokuu 2vk ulkomaa
+TODO/note: whos the drunk episode 1 arcane season 2
+TODO/note: amazons management culture
+TODO/note: ea forum non profits should be more, not less ruthless
+TODO/note: novo nordisk stock price
+TODO/note: kesätöitä ai puljuista?
+TODO/note: new joker movie harley
+TODO/note: if i could just lay down my head and rest
+TODO/note: difference between momentum and kinetic energy
+TODO/note: list of i have no mouth fan games
+TODO/note: thinking team leading
+TODO/note: problems with les mis 2012 singing reddit
+TODO/note: les mis 2010 cast album
+TODO/note: gender roles alignment chart
+TODO/note: how to select tinder profile pics
+TODO/note: how to play ai dungeon with chatgpt
+TODO/note: web.whatsapp
+TODO/note: vim get statistic how much time spent in insert mode
+TODO/note: lesswrong how to talk to new people
+TODO/note: tensorflow
+TODO/note: site:cia.gov filetype:pdf
+TODO/note: iki.fi tunnukselle google tili
+TODO/note: xylix @ iki fi google tili?
+TODO/note: queens gambit episode 1 reddit
+TODO/note: elizabeth voice queens gambit
+TODO/note: queens gambit episode 2 reddit
+TODO/note: queens gambit episode 2 townes
+TODO/note: chappell roan lgbt
+TODO/note: how many nonbinary people want to medically transition
+TODO/note: patria revenue
+TODO/note: europe as the worlds bureucratical superpower
+TODO/note: how badly is europe doing
+TODO/note: french guy cooks lasagna
+TODO/note: has cloud compute made hosting software cheaper hackernews
+TODO/note: arcane your mind has become rigid
+TODO/note: cursor ide
+TODO/note: deepseek and local ai running tabs
+TODO/note: how was le chat built
+TODO/note: kolmas sukupuolimerkintä lakialoite
+TODO/note: making gpt answer better with taylor swift
+TODO/note: phi4
+TODO/note: jailbreaking phi 4
+TODO/note: zettelkasten integrated llm
+TODO/note: analyysiä reaaliluvuilla alkeisfunktioiden integraalit x 1
+TODO/note: trusted monitoring large language models
+TODO/note: how does deepseek v3 use latent multihead attention
+TODO/note: deepseek r1 paper
+TODO/note: programming exercises for multiprocessing between multiple computers
+TODO/note: can language models write better typescript than javascript
+TODO/note: nix build docker not working on other linux
+TODO/note: docker container getting eof on another system
+TODO/note: tool to program llms to be useful github
+TODO/note: obsidian llm ontegration
+TODO/note: vimwiki llm integration
+TODO/note: what to build in skaven under cities reddit
+TODO/note: lelouch were controlled by all sorts of things
+TODO/note: nakai first fight reddit
+TODO/note: vk 6 laskarit mallivastuakset
+TODO/note: ems voltage signals
+TODO/note: on board waste compactors warhammer reddit
+TODO/note: skaven weapons team army comp reddit
+TODO/note: skaven midgame expansion buildings
+TODO/note: tsekkaa antin uusi firma
+TODO/note: 10.03.2025 siivottuja tabejä
+TODO/note: kurssi slack join
+TODO/note: kiinteistöalan yrityslainat
+TODO/note: does integrability imply continuity
+TODO/note: soldier mindset
+TODO/note: diffusion llm
+TODO/note: integr uusinta
+TODO/note: ääneskynnys
+TODO/note: äänesaudiogrammi hinta
+TODO/note: kohonnut ääneskynnys
+TODO/note: hearing test at home
+TODO/note: ääneskynnys mittaus
+TODO/note: oscillating series
+TODO/note: blogi idea: ilmastonmuitos, kapitalismi, inenstiivit, worst case
+TODO/note: scheme standard library
+TODO/note: marco rubio elon musk argument
+TODO/note: reinforcement learning magic the gathering
+TODO/note: some influencer holding yhtiö
+TODO/note: tekoäly lakiasioihin
+TODO/note: finbert
+TODO/note: rag systems github
+TODO/note: ollama is bad
+TODO/note: websearchrag
+TODO/note: simd programming
+TODO/note: emergent misalignment
+TODO/note: better language for talking with llms
+TODO/note: alignment faking in llms
+TODO/note: can you use derivative to check for series divergence
+TODO/note: using halli to bypass rlhf
+TODO/note: trump removal of ai safety
+TODO/note: geometric sum formula
+TODO/note: anthropic contextual retrieval
+TODO/note: marqo with openwebui
+TODO/note: openwebui compatible vector databases
+TODO/note: marqo use ollama model for embeddings
+TODO/note: hooke theory of gravity
