@@ -151,6 +151,9 @@ Running log:
     - Raw list of new categories that the initial first full run generated:,
         - ["societal_analysis", job_searches, artifial_intelligence, aviation, programming, careers, business, tech_careers, finland_specific_services, "Finnish news", media_criticism, politics, game_development, political_analysis, "political_forecasting", "self_hosting", "technology_news", "LLM_tools", "cybersecurity", "AI governance", "distributed_computing", "decision_making", sexuality "government_policy" "gaming_strategy", "news", "gaming", "economics", "medical_tests", "cryptocurrency_economics", "computer_science", "university_courses", "politics","relationships", "government_publications", "Data and APIs", "AI Safety", "AI in Games", "data_processing", "vector_databases", "machine_learning_tools"]
     - Could be useful to sort the URLs. Either so that ones from same domain are close to each other (would increase odds that they get the same category) or randomized (would probably even out the distribution).
+    - Extracted google notes with claude written google_url_to_note_converter.py:
+        - ```cat start_data.txt | python google_url_to_note_converter.py > google_url_processed_notes.txt```
+        - opened start_data.txt in vim and run `:g/google.com\/search/d` to delete all google lines
 
 Observed behaviour:
     - As mentioned above, using -> for subcategories confused the program.
