@@ -1,7 +1,7 @@
 # Source for initial code: 
 # https://github.com/abi/autocommit/blob/main/scan_repo.py
 # https://github.com/abi/autocommit/blob/main/autocommit/llm.py
-# requirements: pygit2, markdown, llama-cpp-python, jsonl
+# requirements: pygit2, markdown, requests, jsonl, json-repair
 
 from collections import namedtuple
 import sys
@@ -10,6 +10,8 @@ import requests
 import json
 import jsonlines
 import logging
+import time
+from json_repair import repair_json
 
 def generate_suggestions(commit: str) -> str:
     data = {"prompt": """What follows '-------' is a git diff for a potential commit.
@@ -28,6 +30,8 @@ def generate_suggestions(commit: str) -> str:
 
     r = requests.post('http://localhost:8080/completion', headers={"Content-Type": "application/json"}, data=json.dumps(data))
     return(r.json()["content"])
+
+
 
 # GIT_REPO_URL = os.getenv("GIT_REPO_URL")
 # if GIT_REPO_URL is None:
@@ -58,9 +62,11 @@ for commit in commits:
 filtered_commit_objects = commit_objects
 
 # edit this to start from middle (check if a duplicate was added due to this)
-iteration = 212
+iteration = 552 
 json_error_count = 0
 for i in range(len(filtered_commit_objects)):
+    start = time.time()
+
     commit = filtered_commit_objects[iteration]
     iteration = iteration + 1
     message = commit.message.replace("\n", ";")
@@ -69,16 +75,23 @@ for i in range(len(filtered_commit_objects)):
     if message.startswith("Merge"):
         continue
 
-    # text-davinci-003 supports 4000 tokens. Let's use upto 3500 tokens for the prompt.
-    # 3500 tokens = 14,000 characters (https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
-    # But in practice, > 7000 seems to exceed the limit
-    raw_model_output= generate_suggestions(commit.diff[:4000])
+    # Use 11k characters of input, which should fit into 12k context window size when running 2 scripts in parallel
+    llm_start= time.time()
+    raw_model_output= generate_suggestions(commit.diff[:11000])
+    llm_end= time.time()
     try:
         suggestions = json.loads(raw_model_output)
     except Exception as e:
-        logging.error(f"Exception {e} when trying to json.loads {raw_model_output}")
-        suggestions = raw_model_output
-        json_error_count = json_error_count + 1
+        try:
+            # Sometimes there is a missing string close and ] because the model runs 
+            # out of tokens before it closes the list
+            suggestions = json.loads(raw_model_output + '"]')
+        except Exception as e_2:
+            pass
+            logging.error(f"Exception {e} when trying to json.loads {raw_model_output}")
+
+            suggestions = raw_model_output
+            json_error_count = json_error_count + 1
 
     output_item = {
         "commit": str(commit.sha),
@@ -89,5 +102,7 @@ for i in range(len(filtered_commit_objects)):
     with open("commit_polisher_output.jsonl", 'a') as f:
         writer = jsonlines.Writer(f)
         writer.write(output_item)
+    end = time.time()
+    print(f"iteration {iteration} time: {end - start}. Spent in LLM request: {llm_end - llm_start}")
 
 print(f"json error frequency: {json_error_count} / {iteration} = {json_error_count / iteration}")

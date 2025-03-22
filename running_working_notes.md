@@ -217,7 +217,8 @@ Figured out:
     - With current speed and my repo having ~2700 commits, with around 1500 non-autosave commits, and 1200 autosave commits (I should somehow combine those before llm commit message processing, for example squash every hour of autosave commits into one)
         - It's doing a couple hundred per hour. (Taking around ~10 seconds each, so theoretically should be able to do 360 per hour, but my script is probably not keeping the backend satisfied all the time)
         - mmm i could actually just run a separate script at the same time starting from the last 1200 commits
-            - 
+            - [x] did this from commit 1000-onwards
+                - still want to figure out what to do with autosave commits
     - As said above batching could achieve a ~50% performance improvement, but utilizing it well would add code complexity
         - There should also be a ~10-20% gain from making async code from being able to keep the backend processing all the time
             - But could also grab this by just running another script
@@ -225,4 +226,16 @@ Figured out:
     - Tool for estimating .gguf model memory usage (can set context size etc as a parameter)
         - https://github.com/gpustack/gguf-parser-go/tree/main/cmd/gguf-parser
         - observation from running gguf-parser-darwin-arm64 -m Code/models/gemma-3-12b-it-Q8_0.gguf --ctx-size <8000, 16000>: Model VRAM usage seems linearly correlated with context size when other parameters are unchanged
-    - 
+
+    - Community benchmark results for llama.cpp on apple m series hardware https://github.com/ggml-org/llama.cpp/discussions/4167
+
+- regarding context size:
+    - A large git commit (60kb) `git --no-pager diff 219afe49c4cf4015ae67754b8faf791692418fe5 219afe49c4cf4015ae67754b8faf791692418fe5^` becomes around 25 000 tokens
+        - 60000 characters -> 25k tokens
+        - So if I use a 16k context window it should be able to fit ~30k chracters nicely?
+            - 16k seemed a bit large when using the server (memory pressure went into yello) so trying 3*4096 = 12k context window size (and 22k characters limit
+
+- So I increased parallelism to 2 in same time, but also increased context size -> it's running slower now 
+
+- ran passes with commit_description_refiner. I now have a file of 1400 commit hashes and the AIs best suggestions for commit messages
+- 
