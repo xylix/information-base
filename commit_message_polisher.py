@@ -1,48 +1,33 @@
 # Source for initial code: 
 # https://github.com/abi/autocommit/blob/main/scan_repo.py
 # https://github.com/abi/autocommit/blob/main/autocommit/llm.py
-# requirements: pygit2, markdown, llama-cpp-python
+# requirements: pygit2, markdown, llama-cpp-python, jsonl
 
 from collections import namedtuple
-import csv
 import sys
 import pygit2
-from llama_cpp import CreateCompletionResponse, Llama, LlamaGrammar
-from json import loads
+import requests
+import json
+import jsonlines
+import logging
 
-# from autocommit.llm import generate_suggestions
+def generate_suggestions(commit: str) -> str:
+    data = {"prompt": """What follows '-------' is a git diff for a potential commit.
+            End your reply with a json in this form: descriptions: [<five different possible commit messages>],
+            different Git commit messages (a Git commit message should be concise but also
+            try to describe the important changes in the commit), order the list by what you think
+            would be the best commit message first.
+            -------
+            """ +commit + """
+            ------
+            descriptions: 
 
-llm = Llama(
-    model_path="/Users/xylix/Code/models/gemma-3-12b-it-Q8_0.gguf", 
-    n_ctx=4096,
-    verbose=False,
-    n_gpu_layers=50)
+            """,
+        "n_predict": 128
+    }
 
-grammar = LlamaGrammar.from_file("./commit_suggestion_schema.gbnf")
-print(f"Loaded GRAMMAR: {str(grammar)}")
-
-def generate_suggestions(commit: str, commit_hash: str) -> dict:
-    base_prompt = """
-    What follows "-------" is a git diff for a potential commit.
-    Reply by filling in the json list descriptions: [<five different possible commit messages>]}, 
-    different Git commit messages (a Git commit message should be concise but also 
-    try to describe the important changes in the commit), order the list by what you think 
-    would be the best commit message first. Only include the json in your response.
-    
-    ------- 
-    """
-    prompt = base_prompt + "\n" + commit + "\n-----\n" + '{"hash": { ' + str(commit_hash) + '}, descriptions: '
-    response: CreateCompletionResponse = llm.create_completion(prompt=prompt, max_tokens=128, temperature=0.8, stream=False, grammar=grammar)
-    try:
-        json: dict = loads(str(response["choices"][0]["text"]))
-    except Exception as e:
-        print(f"json error: {e}")
-        print(f"response had invalid json: {response["choices"][0]["text"]}")
-        print(f"error, the json should never be invalid")
-        return {}
-
-    # Use a regular expression to extract the list items from the HTML
-    return json 
+    r = requests.post('http://localhost:8080/completion', headers={"Content-Type": "application/json"}, data=json.dumps(data))
+    return(r.json()["content"])
 
 # GIT_REPO_URL = os.getenv("GIT_REPO_URL")
 # if GIT_REPO_URL is None:
@@ -72,11 +57,11 @@ for commit in commits:
 
 filtered_commit_objects = commit_objects
 
-writer = csv.writer(sys.stdout, quoting=csv.QUOTE_MINIMAL)
-
-iteration = 0
-for commit in filtered_commit_objects:
-    print(f"iteration: {iteration}")
+# edit this to start from middle (check if a duplicate was added due to this)
+iteration = 212
+json_error_count = 0
+for i in range(len(filtered_commit_objects)):
+    commit = filtered_commit_objects[iteration]
     iteration = iteration + 1
     message = commit.message.replace("\n", ";")
 
@@ -87,8 +72,22 @@ for commit in filtered_commit_objects:
     # text-davinci-003 supports 4000 tokens. Let's use upto 3500 tokens for the prompt.
     # 3500 tokens = 14,000 characters (https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
     # But in practice, > 7000 seems to exceed the limit
-    suggestions = generate_suggestions(commit.diff[:2000], commit.sha)
-    # print(suggestions)
+    raw_model_output= generate_suggestions(commit.diff[:4000])
+    try:
+        suggestions = json.loads(raw_model_output)
+    except Exception as e:
+        logging.error(f"Exception {e} when trying to json.loads {raw_model_output}")
+        suggestions = raw_model_output
+        json_error_count = json_error_count + 1
 
-    # generate CSV row
-    writer.writerow(suggestions)
+    output_item = {
+        "commit": str(commit.sha),
+        "descriptions": suggestions,
+        "iteration": iteration,
+    }
+
+    with open("commit_polisher_output.jsonl", 'a') as f:
+        writer = jsonlines.Writer(f)
+        writer.write(output_item)
+
+print(f"json error frequency: {json_error_count} / {iteration} = {json_error_count / iteration}")

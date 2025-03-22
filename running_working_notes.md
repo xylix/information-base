@@ -169,3 +169,60 @@ Ideas for improving:
         - "unknown"
     - Automoitu tarkistus että mikään URL ei hallusinoitunut prosessista?
         - Nopealla (Claude written) scriptillä näyttää että ~62 urlia puuttuisi output.txt:stä. Mutta tähän sisältyy myös
+
+
+## 22.03.2025 commit polisher work
+
+- Now it's running! See code at commit_message_polisher.py + the one-liner server script at llama_commit_backend.sh
+- It's processing at ~5-20 seconds per query (around 12 tokens / sec with each query taking ~100ish tokens + small amount of time for overhead and prompt processing
+- could try batch processing?
+    - would need async post requests hmm
+    - Running some llama benchmarks
+        - Damn these tools are handy
+
+```txt
+llama-batched-bench -m Code/models/gemma-3-12b-it-Q8_0.gguf -c 16384 -b 2048 -npp 1024 -ntg 128 -npl 1,2,4,5,6,8 -ngl 50
+
+...
+<output noise>
+...
+
+main: n_kv_max = 16384, n_batch = 2048, n_ubatch = 512, flash_attn = 0, is_pp_shared = 0, n_gpu_layers = 50, n_threads = 8, n_threads_batch = 8
+
+|    PP |     TG |    B |   N_KV |   T_PP s | S_PP t/s |   T_TG s | S_TG t/s |      T s |    S t/s |
+|-------|--------|------|--------|----------|----------|----------|----------|----------|----------|
+|  1024 |    128 |    1 |   1152 |    6.612 |   154.88 |   10.552 |    12.13 |   17.163 |    67.12 |
+|  1024 |    128 |    2 |   2304 |   12.049 |   169.97 |   14.233 |    17.99 |   26.282 |    87.66 |
+|  1024 |    128 |    4 |   4608 |   25.123 |   163.04 |   19.143 |    26.75 |   44.266 |   104.10 |
+|  1024 |    128 |    5 |   5760 |   32.141 |   159.30 |   21.072 |    30.37 |   53.213 |   108.24 |
+|  1024 |    128 |    6 |   6912 |   39.492 |   155.57 |   28.127 |    27.30 |   67.620 |   102.22 |
+|  1024 |    128 |    8 |   9216 |   55.298 |   148.14 |   35.183 |    29.10 |   90.481 |   101.86 |
+
+llama_perf_context_print:        load time =    1651.64 ms
+llama_perf_context_print: prompt eval time =  287669.71 ms / 29840 tokens (    9.64 ms per token,   103.73 tokens per second)
+llama_perf_context_print:        eval time =   10551.62 ms /   128 runs   (   82.43 ms per token,    12.13 tokens per second)
+llama_perf_context_print:       total time =  300677.16 ms / 29968 tokens
+ggml_metal_free: deallocating
+```
+
+Figured out: 
+- gpu layer size doesn't seem to change anything as long as it's not set very low (the default of -1 seems to mean the tool will automatically figure out a sensible layer amount to put in vram)
+    - With gpu layer size 10-25 the benchmark didn't print anything for minutes, so it's ~3-10x slower with those values
+- batch size of 5 seems to have optimal results with this model and machine
+    - 8 batch size + 16k context was close to my machines RAM limit with this 12bQ8 model., so its good that I don't need to use 8 or higher
+    - Batch size 5 is a ~50% performance improvement, relevant, but plausibly not useful enough to justify significant programming time. If the task takes hours to run anyway 50% doens't make a big difference.
+        - A couple 50% increases would
+
+- regarding performance:
+    - With current speed and my repo having ~2700 commits, with around 1500 non-autosave commits, and 1200 autosave commits (I should somehow combine those before llm commit message processing, for example squash every hour of autosave commits into one)
+        - It's doing a couple hundred per hour. (Taking around ~10 seconds each, so theoretically should be able to do 360 per hour, but my script is probably not keeping the backend satisfied all the time)
+        - mmm i could actually just run a separate script at the same time starting from the last 1200 commits
+            - 
+    - As said above batching could achieve a ~50% performance improvement, but utilizing it well would add code complexity
+        - There should also be a ~10-20% gain from making async code from being able to keep the backend processing all the time
+            - But could also grab this by just running another script
+
+    - Tool for estimating .gguf model memory usage (can set context size etc as a parameter)
+        - https://github.com/gpustack/gguf-parser-go/tree/main/cmd/gguf-parser
+        - observation from running gguf-parser-darwin-arm64 -m Code/models/gemma-3-12b-it-Q8_0.gguf --ctx-size <8000, 16000>: Model VRAM usage seems linearly correlated with context size when other parameters are unchanged
+    - 
