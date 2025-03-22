@@ -5,6 +5,7 @@
 
 from collections import namedtuple
 import sys
+import json_repair
 import pygit2
 import requests
 import json
@@ -62,7 +63,7 @@ for commit in commits:
 filtered_commit_objects = commit_objects
 
 # edit this to start from middle (check if a duplicate was added due to this)
-iteration = 552 
+iteration = 1394
 json_error_count = 0
 for i in range(len(filtered_commit_objects)):
     start = time.time()
@@ -70,6 +71,10 @@ for i in range(len(filtered_commit_objects)):
     commit = filtered_commit_objects[iteration]
     iteration = iteration + 1
     message = commit.message.replace("\n", ";")
+
+    if str(commit.sha) == "bce07c473be7a2a8882bf2a808e3c8af4faa40c7":
+        print("Arrived at commit bce07c473be7a2a8882bf2a808e3c8af4faa40c7, we're done!")
+        break
 
     # Skip merge commits
     if message.startswith("Merge"):
@@ -85,10 +90,9 @@ for i in range(len(filtered_commit_objects)):
         try:
             # Sometimes there is a missing string close and ] because the model runs 
             # out of tokens before it closes the list
-            suggestions = json.loads(raw_model_output + '"]')
+            suggestions = repair_json(raw_model_output)
         except Exception as e_2:
-            pass
-            logging.error(f"Exception {e} when trying to json.loads {raw_model_output}")
+            logging.error(f"Exception {e} when trying to json.loads {raw_model_output}, exception {e_2} when trying to autofix that")
 
             suggestions = raw_model_output
             json_error_count = json_error_count + 1
@@ -99,7 +103,7 @@ for i in range(len(filtered_commit_objects)):
         "iteration": iteration,
     }
 
-    with open("commit_polisher_output.jsonl", 'a') as f:
+    with open("commit_polisher_output_2.jsonl", 'a') as f:
         writer = jsonlines.Writer(f)
         writer.write(output_item)
     end = time.time()
