@@ -169,6 +169,7 @@ Ideas for improving:
         - "unknown"
     - Automoitu tarkistus että mikään URL ei hallusinoitunut prosessista?
         - Nopealla (Claude written) scriptillä näyttää että ~62 urlia puuttuisi output.txt:stä. Mutta tähän sisältyy myös
+    - Use scripting + LLM to enrichen the data (add URL titles, fix quote blocks)
 
 
 ## 22.03.2025 commit polisher work
@@ -314,6 +315,13 @@ LLM performance todos:
         knock knock<end_of_turn>
         <start_of_turn>model
         - Pitää sallia modelin kirjoittaa end_of_turn token promptin lopussa, ja llama.cpp lisää itsestään <bos> tokenin
+        - Testailua:
+            - Description refiner testi ilmankin end_of_turnin sallimista, se että promptiin lisäs noi start user / end user turn ja start of turn model se nopeutui huomattavasti. N. 50%
+            - Commit generatorille testi: Ilman instructioneja, n. 10 sec / 1000 tokeniin promptiin vastaaminen. N. ~11-11.5 tokens / s
+            - Huh, description-yhdistin steppi ylikäyttää sanaa "Clever" tosi lujaa. Se ei löydy niistä pohjakuvauksista. Ehkä joku temperature tai muu säätö toimis?
+                - "Avoid unnecessary adjectives" paransi tätä
+            - Nyt se hallusinoi Tänne jotain random tiiminjäseniä.
+            - Mun promptin "try to keep names if at all possible" oli ehkä se mikä hämmensi. Muutin promptia.
     - vois kokeilla kuvantunnistusta esim. ShieldGemma2:sella?
     - speculativde decoding stuff:
         - https://github.com/ggml-org/llama.cpp/discussions/10466
