@@ -239,3 +239,115 @@ Figured out:
 
 - ran passes with commit_description_refiner. I now have a file of 1400 commit hashes and the AIs best suggestions for commit messages
 - 
+
+
+## 24.03.2025
+
+- output files output_3 today
+
+- gemma-3 benchmarking:
+    - Should improve quality: Now using recommended temperature, top-k and top-p
+with 1b 8q drafting model
+    - with drafting model `llama-server --grammar-file ~/Code/information_base_proto/commit_suggestion_schema.gbnf -m ~/Code/models/gemma-3-12b-it-Q8_0.gguf -c 12288 --temp 1.0 --top-k 64 --top-p 0.95 -n 128 -np 2`
+
+run of 12 commits:
+
+iteration 1 time: 7.277379989624023. Spent in LLM request: 7.277112007141113
+iteration 2 time: 8.883140087127686. Spent in LLM request: 8.882775068283081
+iteration 3 time: 8.687573194503784. Spent in LLM request: 8.687138080596924
+iteration 4 time: 6.933151960372925. Spent in LLM request: 6.932924270629883
+iteration 5 time: 9.034284830093384. Spent in LLM request: 9.033998012542725
+iteration 6 time: 9.546880006790161. Spent in LLM request: 9.546646118164062
+iteration 7 time: 8.565376043319702. Spent in LLM request: 8.565117835998535
+iteration 8 time: 5.854483127593994. Spent in LLM request: 5.854053020477295
+iteration 9 time: 7.975300073623657. Spent in LLM request: 7.975009918212891
+iteration 10 time: 9.342612028121948. Spent in LLM request: 9.342353820800781
+iteration 11 time: 9.418689966201782. Spent in LLM request: 9.418364763259888
+iteration 12 time: 7.933442831039429. Spent in LLM request: 7.9319541454315186
+
+second run (more RAM free)
+
+iteration 1 time: 7.749130010604858. Spent in LLM request: 7.748865842819214
+iteration 2 time: 8.538575887680054. Spent in LLM request: 8.538130044937134
+iteration 3 time: 6.2677130699157715. Spent in LLM request: 6.267401218414307
+iteration 4 time: 8.21058988571167. Spent in LLM request: 8.210214138031006
+iteration 5 time: 9.621405839920044. Spent in LLM request: 9.62113094329834
+iteration 6 time: 11.124515771865845. Spent in LLM request: 11.122999906539917
+iteration 7 time: 8.456011056900024. Spent in LLM request: 8.455771923065186
+iteration 8 time: 7.025587320327759. Spent in LLM request: 7.025300025939941
+iteration 9 time: 7.2640540599823. Spent in LLM request: 7.263823986053467
+iteration 10 time: 9.588106870651245. Spent in LLM request: 9.587868213653564
+iteration 11 time: 7.726407766342163. Spent in LLM request: 7.726181268692017
+iteration 12 time: 8.182787895202637. Spent in LLM request: 8.182549953460693
+
+running 20 tasks total time: 169.09207606315613
+
+
+    - without drafting model 
+run of 12 commits
+
+iteration 1 time: 8.7862389087677. Spent in LLM request: 8.785879135131836
+iteration 2 time: 8.629988670349121. Spent in LLM request: 8.629764080047607
+iteration 3 time: 7.063875198364258. Spent in LLM request: 7.063704013824463
+iteration 4 time: 8.421253204345703. Spent in LLM request: 8.421022891998291
+iteration 5 time: 9.377028226852417. Spent in LLM request: 9.376824140548706
+iteration 6 time: 10.671042919158936. Spent in LLM request: 10.670779705047607
+iteration 7 time: 8.33873200416565. Spent in LLM request: 8.338506937026978
+iteration 8 time: 6.014728307723999. Spent in LLM request: 6.014522075653076
+iteration 9 time: 7.5089499950408936. Spent in LLM request: 7.508731365203857
+iteration 10 time: 8.266093969345093. Spent in LLM request: 8.265892267227173
+iteration 11 time: 6.920624256134033. Spent in LLM request: 6.920413970947266
+iteration 12 time: 9.047682046890259. Spent in LLM request: 9.047457695007324
+
+running 20 tasks total time 166.78280568122864
+
+
+--
+LLM performance todos:
+    - benchmark gemma-3 with draft model and no draft model with different context sizes and prompts
+        - above some benchmarks, also changed temperature, top_k, top_p etc
+        - Could try different sized draft models? Like 4b? But people claim 10x difference (which 12b and 1b ~gets) is usually optimal.
+        - recommended settings: https://www.reddit.com/r/LocalLLaMA/comments/1j9hsfc/gemma_3_ggufs_recommended_settings/ , https://huggingface.co/unsloth/gemma-3-27b-it-GGUF/blob/main/params
+            - temperature = 1.0, top_k = 64, top_p = 0.95, min_p = 0.01, repeat_penalty = 1.0
+    - add correct instructions to gemma-3 code in this repo https://huggingface.co/unsloth/gemma-3-1b-it-GGUF
+        - <bos><start_of_turn>user
+        knock knock<end_of_turn>
+        <start_of_turn>model
+        - Pitää sallia modelin kirjoittaa end_of_turn token promptin lopussa, ja llama.cpp lisää itsestään <bos> tokenin
+    - vois kokeilla kuvantunnistusta esim. ShieldGemma2:sella?
+    - speculativde decoding stuff:
+        - https://github.com/ggml-org/llama.cpp/discussions/10466
+
+Prompt optimizing ideas:
+    - https://github.com/SylphAI-Inc/AdalFlow
+        - > Say goodbye to manual prompting: AdalFlow provides a unified auto-differentiative framework for both zero-shot optimization and few-shot prompt optimization. Our research, LLM-AutoDiff and Learn-to-Reason Few-shot In Context Learning, achieve the highest accuracy among all auto-prompt optimization libraries.
+    - DSPY https://github.com/stanfordnlp/dspy
+        - DSPy: Programming—not prompting—Foundation Models
+
+
+-- trying to run models with apple neural engine.
+- MLX format stuff:
+
+    - (drafted message to generative ais group, didn't end up sending yet because experiment isn't done):
+    re Apple Neural models:
+
+    came across this thread recently https://www.reddit.com/r/LocalLLaMA/comments/1fz6z79/lm_studio_ships_an_mlx_backend_run_any_llm_from/ where people are using lm-studio, and getting 0-50% gains (with Qwen 2.5 variants, different hardware for different gains).
+
+    And also came across some tech that lets one run models from huggingface with the neural engine in libraries.
+
+
+    - See 
+        - /Users/xylix/Code/machine_learning/mlx_experiments
+            - fastmlx
+            - mlx-lm mlx vlm
+        links:
+            - https://github.com/arcee-ai/fastmlx?tab=readme-ov-file
+            - mlx-community on huggingface:
+                - https://huggingface.co/collections/mlx-community/gemma-3-67d14a10480a436ad478b0f9
+                - Missä on kaikki benchmarkit jossa verrataan samaa mlx mallia saman mallin ggufiin samalla raudalla?
+
+        - LM Studio joka tukee MLX malleja https://www.reddit.com/r/LocalLLaMA/comments/1fz6z79/lm_studio_ships_an_mlx_backend_run_any_llm_from/ 
+            - Reddit threadissa porukan gainit jotain 10-50% eri malleilla ja eri mäkeillä
+                - Ja VRAM savings kun toimii oikein
+            - Väitetysti MLX:llä mallit toimii paremmin isolla kontekstilla? Jotain jotain applen AI magic?
+    - 
