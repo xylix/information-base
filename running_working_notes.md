@@ -149,7 +149,6 @@ Running log:
     - Used this vim search pattern written by Claude to find long lines `/\v.{150,}` and manually deleted some ?share-id params for reddit and linkedin links and then various metadata for google links. (Estimate was that long google links around line 310 were breaking the LLM because my local LLM probably has a small context window.)
     - Now it's running better again,
     - Raw list of new categories that the initial first full run generated:,
-        - ["societal_analysis", job_searches, artifial_intelligence, aviation, programming, careers, business, tech_careers, finland_specific_services, "Finnish news", media_criticism, politics, game_development, political_analysis, "political_forecasting", "self_hosting", "technology_news", "LLM_tools", "cybersecurity", "AI governance", "distributed_computing", "decision_making", sexuality "government_policy" "gaming_strategy", "news", "gaming", "economics", "medical_tests", "cryptocurrency_economics", "computer_science", "university_courses", "politics","relationships", "government_publications", "Data and APIs", "AI Safety", "AI in Games", "data_processing", "vector_databases", "machine_learning_tools"]
     - Could be useful to sort the URLs. Either so that ones from same domain are close to each other (would increase odds that they get the same category) or randomized (would probably even out the distribution).
     - Extracted google notes with claude written google_url_to_note_converter.py:
         - ```cat start_data.txt | python google_url_to_note_converter.py > google_url_processed_notes.txt```
@@ -161,15 +160,7 @@ Observed behaviour:
     - And sometimes it marks very confused categories: It understands that  "https://www.google.com/search?client=firefox-b-d&q=marco+rubio+elon+musk+argument" is of Topic "political debate search" but it categorizes it as "self_improvement"
 
 Ideas for improving:
-    - Optimize prompt, try different ollama modes (chat vs. prompt vs. generate), try ollama.cpp and temperature etc settings
-    - Category ideas:
-        - "Todos", somehow explain that many google links are todos
-        - yhteiskuntatiede (social sciences)? separated for general, finland, us, eu levels?
-        - history
-        - "unknown"
-    - Automoitu tarkistus että mikään URL ei hallusinoitunut prosessista?
-        - Nopealla (Claude written) scriptillä näyttää että ~62 urlia puuttuisi output.txt:stä. Mutta tähän sisältyy myös
-    - Use scripting + LLM to enrichen the data (add URL titles, fix quote blocks)
+    - [x] Optimize prompt, try different ollama modes (chat vs. prompt vs. generate), try ollama.cpp and temperature etc settings
 
 
 ## 22.03.2025 commit polisher work
@@ -325,6 +316,28 @@ LLM performance todos:
     - vois kokeilla kuvantunnistusta esim. ShieldGemma2:sella?
     - speculativde decoding stuff:
         - https://github.com/ggml-org/llama.cpp/discussions/10466
+    - Flash-attention for Gemma-3?
+        - Would need to run some benchmarks
+        - Ajoin llama-bench -m Code/models/gemma-3-12b-it-Q8_0.gguf -fa 0 -p 512 -n 128 
+             -fa 0:lla ja 1:sellä. Ei eroa tässä tapauksessa.
+            - Memory pressure silmäilyä benchmarkkauksen aikana: Ehkä minor ram usage ero?
+        - Isommallakin promptilla ja outputilla, benchmarkilla menee pitempään ajaa mutta tulokset ei näytä kummoista eroa:
+         ~> llama-bench -m Code/models/gemma-3-12b-it-Q8_0.gguf -fa 0,1 -p 2048 -n 512
+| model                          |       size |     params | backend    | threads | fa |          test |                  t/s |
+| ------------------------------ | ---------: | ---------: | ---------- | ------: | -: | ------------: | -------------------: |
+| gemma3 12B Q8_0                |  11.64 GiB |    11.77 B | Metal,BLAS |       8 |  0 |        pp2048 |        155.84 ± 2.28 |
+| gemma3 12B Q8_0                |  11.64 GiB |    11.77 B | Metal,BLAS |       8 |  0 |         tg512 |         12.55 ± 0.07 |
+| gemma3 12B Q8_0                |  11.64 GiB |    11.77 B | Metal,BLAS |       8 |  1 |        pp2048 |        144.05 ± 1.21 |
+| gemma3 12B Q8_0                |  11.64 GiB |    11.77 B | Metal,BLAS |       8 |  1 |         tg512 |         12.71 ± 0.06 |
+        - Teoria flash-attentionin takana: Parantaa usein käytetyn infon pitämistä GPU:n SRAM:issa eikä hitaammassa GPU:n massamuistissa HBM
+            - Ehkä m1-arkkitehtuurilla tää ero on negligible koska GPU käyttää systeemimuistia anyway? Millainen SRAM m1 gpuissa on?
+            - ilmeisesti Metalille on jotain nopeampia kuin ekat naiivimmat implementaatiot Flash Attn implementaatioita: https://github.com/philipturner/metal-flash-attention
+            - Työ näiden parissa implikois että kyllä sille jotain use caseja on?
+            - FlashAttention paperissa https://arxiv.org/pdf/2205.14135 claimataan joillekin caseille 3x parannusta, ja koulutukseen ~10-15%
+    - Accuracy:
+        - Olisko jotain benchmark suitea jota voisin ajaa lokaalisti eri malleilla että sais jonkun verrattavan luvun?
+            - Tää auttais kans temperature jne. hienosäädössä (toki siinä paras silti ois omaa use casea kuvaava testisetti)
+            - 
 
 Prompt optimizing ideas:
     - https://github.com/SylphAI-Inc/AdalFlow
@@ -358,4 +371,26 @@ Prompt optimizing ideas:
             - Reddit threadissa porukan gainit jotain 10-50% eri malleilla ja eri mäkeillä
                 - Ja VRAM savings kun toimii oikein
             - Väitetysti MLX:llä mallit toimii paremmin isolla kontekstilla? Jotain jotain applen AI magic?
-    - 
+
+            - LM Studio testi: Promptasin tiivistämään parinsadan tokenin google-keep notea. n. 11.5 tokens/sec sekä LM-studiossa että komentorivillä gemma-3 12b Q8 mallilla. LM-studiossa vähän parempi memory usage.
+                -> Ehkä worth it kokeilla ajaa tota MLX mallia, ehkä ei. En jaksa ehkä nyt räpeltää.
+---
+
+Thinking aloud about various capabilities:
+    - Local voice models?
+        - https://github.com/SesameAILabs/csm   
+            - Ihan lupaava malli mut ei aja vielä kovin hyvin m1 chipeillä https://www.reddit.com/r/LocalLLaMA/comments/1j0n56h/finally_a_realtime_lowlatency_voice_chat_model/?share_id=_0eERDeTahepbYvVb0zI3
+        - https://www.reddit.com/r/LocalLLaMA/comments/1ftuq9i/whisper_turbo_vs_whisper_mlx/?share_id=tOZ7BCFfJYDdELfrgbsGf
+    - Image interpretation
+        - Tähän pitäis olla valmiiks capabilityt gemmassa, mut miten se ottaa osumaa pienistä quanteista?
+
+--- 
+Google keep noten pätkä commit message automation workflowsta:
+
+Commit automaatio blogipostaukseen:
+ - mun visio:
+ - Mitä halusin oppia:
+   - koodaan llm "pipelinen" / scriptin
+   - Saada paremman käsityksen siitä kuinka hyviä llmt on commit viestin tyylisessä tiivistämisessä - mä tjnnen mun omat notet hyvin niin osaan arvioida
+   - Saada paremman käsityksen kuinka hyvä llm on kirjoittaan (commit viestei) - kirjoittaako se 30 sekunnissa yhtä hyvin kuin ihminen 30 sekunnissa, meneekö ihmisellä 10, 30, vai 300 sekuntia kirjoittaa parempi commit msg kuin llmllä?
+
